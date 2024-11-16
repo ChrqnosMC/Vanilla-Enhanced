@@ -1,5 +1,3 @@
-#AFK Display
-
 scoreboard objectives add afk.x1 dummy
 scoreboard objectives add afk.x2 dummy
 scoreboard objectives add afk.y1 dummy
@@ -13,13 +11,8 @@ team add afk "AFK Display"
 team modify afk color white
 team modify afk suffix {"text":" [AFK]", "color":"white"}
 
-#Tab Player Health
-
 scoreboard objectives add Health health
 scoreboard objectives setdisplay list Health
 scoreboard objectives setdisplay below_name Health
-
-schedule function vanilla_enhanced:tick 1t
-schedule function vanilla_enhanced:second 1s
 
 tellraw @a ["",{"text":"Vanilla Enhanced datapack has been reloaded"}]

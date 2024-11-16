@@ -1,4 +1,4 @@
-#AFK Display
+schedule clear vanilla_enhanced:second
 
 scoreboard objectives remove afk.x1
 scoreboard objectives remove afk.x2
@@ -10,12 +10,8 @@ scoreboard objectives remove afk.checkAFK
 scoreboard objectives remove afk
 team remove afk
 
-schedule clear vanilla_enhanced:second
-
-#Tab Player Health
+schedule clear vanilla_enhanced:tick
 
 scoreboard objectives remove Health
-
-schedule clear vanilla_enhanced:tick
 
 tellraw @a ["",{"text":"Vanilla Enhanced datapack has been uninstall"}]
