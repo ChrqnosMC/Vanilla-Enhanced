@@ -1,0 +1,3 @@
+effect give @s more_vault:dreaming 6000 4
+advancement revoke @s only more_vault:consume_dreaming_bottle
+advancement revoke @s only more_vault:consume_dreaming_bottle5

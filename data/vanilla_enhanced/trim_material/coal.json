@@ -1,0 +1,8 @@
+{
+  "asset_name": "coal",
+  "description": {
+    "color": "#2e2e2e",
+    "translate": "trim_material.more_armor_trim.coal"
+  },
+  "ingredient": "minecraft:coal"
+}
