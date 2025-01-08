@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:ender_pearl",
+  "base": "minecraft:diamond_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "custom_model_data": 325,
+      "minecraft:trim": {
+        "material": "minecraft:ender_pearl",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

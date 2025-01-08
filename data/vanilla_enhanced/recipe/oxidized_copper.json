@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+      "#": {
+        "item": "minecraft:copper_ingot",
+        "components": {
+          "item_name": "'Oxidized Copper Ingot'",
+          "custom_model_data": 3
+        }
+      }
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:oxidized_copper"
+    }
+  }

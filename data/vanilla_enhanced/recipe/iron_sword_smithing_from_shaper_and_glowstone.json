@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glowstone_dust",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "custom_model_data": 404,
+      "minecraft:trim": {
+        "material": "minecraft:glowstone",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  },
+  "template": "minecraft:shaper_armor_trim_smithing_template"
+}

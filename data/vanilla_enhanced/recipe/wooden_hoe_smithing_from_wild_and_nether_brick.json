@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nether_brick",
+  "base": "minecraft:wooden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "custom_model_data": 507,
+      "minecraft:trim": {
+        "material": "minecraft:nether_brick",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:popped_chorus_fruit",
+  "base": "minecraft:netherite_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_pickaxe",
+    "components": {
+      "custom_model_data": 618,
+      "minecraft:trim": {
+        "material": "minecraft:purpur",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

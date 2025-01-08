@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:coal",
+  "base": "minecraft:diamond_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "custom_model_data": 269,
+      "minecraft:trim": {
+        "material": "minecraft:coal",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:fire_charge",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "custom_model_data": 372,
+      "minecraft:trim": {
+        "material": "minecraft:fire_charge",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}

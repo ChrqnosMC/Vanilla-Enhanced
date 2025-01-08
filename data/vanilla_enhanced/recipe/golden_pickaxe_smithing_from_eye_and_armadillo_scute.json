@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:armadillo_scute",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "custom_model_data": 195,
+      "minecraft:trim": {
+        "material": "minecraft:armadillo_scute",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

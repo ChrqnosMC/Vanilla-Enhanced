@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_crystals",
+  "base": "minecraft:diamond_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "custom_model_data": 593,
+      "minecraft:trim": {
+        "material": "minecraft:prismarine_crystals",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

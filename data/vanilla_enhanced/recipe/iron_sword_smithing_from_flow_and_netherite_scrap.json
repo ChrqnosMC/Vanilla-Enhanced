@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:netherite_scrap",
+  "base": "minecraft:iron_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "custom_model_data": 557,
+      "minecraft:trim": {
+        "material": "minecraft:netherite_scrap",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

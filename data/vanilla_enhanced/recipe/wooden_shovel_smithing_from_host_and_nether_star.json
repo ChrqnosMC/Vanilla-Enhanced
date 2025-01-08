@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nether_star",
+  "base": "minecraft:wooden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "custom_model_data": 531,
+      "minecraft:trim": {
+        "material": "minecraft:nether_star",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

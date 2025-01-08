@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:rabbit_hide",
+  "base": "minecraft:iron_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "custom_model_data": 637,
+      "minecraft:trim": {
+        "material": "minecraft:rabbit_hide",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

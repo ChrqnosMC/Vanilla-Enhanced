@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nether_brick",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "custom_model_data": 522,
+      "minecraft:trim": {
+        "material": "minecraft:nether_brick",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

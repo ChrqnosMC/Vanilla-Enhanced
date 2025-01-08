@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_crystals",
+  "base": "minecraft:wooden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "custom_model_data": 591,
+      "minecraft:trim": {
+        "material": "minecraft:prismarine_crystals",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

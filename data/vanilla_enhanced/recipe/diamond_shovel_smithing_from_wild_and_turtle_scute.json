@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:turtle_scute",
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "custom_model_data": 669,
+      "minecraft:trim": {
+        "material": "minecraft:turtle_scute",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

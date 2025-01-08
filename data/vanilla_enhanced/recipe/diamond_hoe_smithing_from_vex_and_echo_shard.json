@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:echo_shard",
+  "base": "minecraft:diamond_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "custom_model_data": 290,
+      "minecraft:trim": {
+        "material": "minecraft:echo_shard",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

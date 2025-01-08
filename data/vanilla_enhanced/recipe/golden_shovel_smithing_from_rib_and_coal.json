@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:coal",
+  "base": "minecraft:golden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "custom_model_data": 266,
+      "minecraft:trim": {
+        "material": "minecraft:coal",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": "minecraft:rib_armor_trim_smithing_template"
+}

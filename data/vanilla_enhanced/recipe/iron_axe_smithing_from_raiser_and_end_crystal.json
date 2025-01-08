@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:end_crystal",
+  "base": "minecraft:iron_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "custom_model_data": 313,
+      "minecraft:trim": {
+        "material": "minecraft:end_crystal",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": "minecraft:raiser_armor_trim_smithing_template"
+}

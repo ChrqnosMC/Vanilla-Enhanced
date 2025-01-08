@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glow_ink_sac",
+  "base": "minecraft:netherite_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "custom_model_data": 381,
+      "minecraft:trim": {
+        "material": "minecraft:glow_ink",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

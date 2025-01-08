@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:turtle_scute",
+  "base": "minecraft:golden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "custom_model_data": 675,
+      "minecraft:trim": {
+        "material": "minecraft:turtle_scute",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

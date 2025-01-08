@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": {
+            "item": "minecraft:terracotta"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "H": {
+            "item": "minecraft:host_armor_trim_smithing_template"
+        }
+    },
+    "pattern": [
+        "#D#",
+        "DHD",
+        "#D#"
+    ],
+    "result": {
+        "count": 2,
+        "id": "minecraft:host_armor_trim_smithing_template"
+    }
+}

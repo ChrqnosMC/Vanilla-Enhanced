@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:ender_pearl",
+  "base": "minecraft:diamond_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "custom_model_data": 329,
+      "minecraft:trim": {
+        "material": "minecraft:ender_pearl",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
+}

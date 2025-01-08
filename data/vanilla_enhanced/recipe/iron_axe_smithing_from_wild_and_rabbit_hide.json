@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:rabbit_hide",
+  "base": "minecraft:iron_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "custom_model_data": 633,
+      "minecraft:trim": {
+        "material": "minecraft:rabbit_hide",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

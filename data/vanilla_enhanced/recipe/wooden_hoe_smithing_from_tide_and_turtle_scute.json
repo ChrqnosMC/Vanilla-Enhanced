@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:turtle_scute",
+  "base": "minecraft:wooden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "custom_model_data": 678,
+      "minecraft:trim": {
+        "material": "minecraft:turtle_scute",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "template": "minecraft:tide_armor_trim_smithing_template"
+}
