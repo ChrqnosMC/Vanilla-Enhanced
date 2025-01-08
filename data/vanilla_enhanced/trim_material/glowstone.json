@@ -1,9 +1,0 @@
-{
-  "asset_name": "glowstone",
-  "description": {
-    "color": "#ffbc5e",
-    "translate": "trim_material.vanilla_enhanced.glowstone"
-  },
-  "ingredient": "minecraft:glowstone_dust",
-  "item_model_index": 0.12
-}

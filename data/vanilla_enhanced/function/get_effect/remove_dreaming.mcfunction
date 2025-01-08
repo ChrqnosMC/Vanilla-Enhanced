@@ -1,2 +1,2 @@
 advancement revoke @s only vanilla_enhanced:check_sleep
-effect clear @s vanilla_enhanced:dreaming
+effect clear @s more_vault:dreaming

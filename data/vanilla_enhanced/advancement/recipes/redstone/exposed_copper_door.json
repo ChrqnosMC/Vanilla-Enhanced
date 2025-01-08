@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_exposed_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot",
+            "components": {
+              "item_name": "'Exposed Copper Ingot'",
+              "custom_model_data": 1
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "more_copper_ingot:exposed_copper_door"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_exposed_copper_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "more_copper_ingot:exposed_copper_door"
+    ]
+  }
+}
