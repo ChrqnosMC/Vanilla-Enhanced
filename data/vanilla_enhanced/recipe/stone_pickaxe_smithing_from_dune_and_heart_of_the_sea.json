@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:heart_of_the_sea",
+  "base": "minecraft:stone_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_pickaxe",
+    "components": {
+      "item_model": "more_tool_trim:stone_pickaxe_dune_and_heart_of_the_sea_trim",
+      "minecraft:trim": {
+        "material": "minecraft:heart_of_the_sea",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
+}

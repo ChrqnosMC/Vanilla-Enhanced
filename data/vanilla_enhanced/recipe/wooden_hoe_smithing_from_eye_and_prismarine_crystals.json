@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_crystals",
+  "base": "minecraft:wooden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_hoe",
+    "components": {
+      "item_model": "more_tool_trim:wooden_hoe_eye_and_prismarine_crystals_trim",
+      "minecraft:trim": {
+        "material": "minecraft:prismarine_crystals",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:phantom_membrane",
+  "base": "minecraft:stone_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "item_model": "more_tool_trim:stone_hoe_wayfinder_and_phantom_membrane_trim",
+      "minecraft:trim": {
+        "material": "minecraft:phantom_membrane",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

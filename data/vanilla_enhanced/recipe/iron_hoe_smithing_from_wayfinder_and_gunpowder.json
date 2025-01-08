@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gunpowder",
+  "base": "minecraft:iron_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "item_model": "more_tool_trim:iron_hoe_wayfinder_and_gunpowder_trim",
+      "minecraft:trim": {
+        "material": "minecraft:gunpowder",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glow_ink_sac",
+  "base": "minecraft:wooden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "item_model": "more_tool_trim:wooden_axe_wayfinder_and_glow_ink_trim",
+      "minecraft:trim": {
+        "material": "minecraft:glow_ink",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

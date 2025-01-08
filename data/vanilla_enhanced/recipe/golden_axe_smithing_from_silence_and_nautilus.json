@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nautilus_shell",
+  "base": "minecraft:golden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_axe",
+    "components": {
+      "item_model": "more_tool_trim:golden_axe_silence_and_nautilus_trim",
+      "minecraft:trim": {
+        "material": "minecraft:nautilus",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}

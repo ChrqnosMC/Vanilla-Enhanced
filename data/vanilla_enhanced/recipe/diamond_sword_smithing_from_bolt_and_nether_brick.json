@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nether_brick",
+  "base": "minecraft:diamond_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "item_model": "more_tool_trim:diamond_sword_bolt_and_nether_brick_trim",
+      "minecraft:trim": {
+        "material": "minecraft:nether_brick",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

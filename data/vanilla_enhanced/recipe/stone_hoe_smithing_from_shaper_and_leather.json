@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:leather",
+  "base": "minecraft:stone_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "item_model": "more_tool_trim:stone_hoe_shaper_and_leather_trim",
+      "minecraft:trim": {
+        "material": "minecraft:leather",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  },
+  "template": "minecraft:shaper_armor_trim_smithing_template"
+}

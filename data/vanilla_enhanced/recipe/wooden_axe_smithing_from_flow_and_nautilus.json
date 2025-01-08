@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nautilus_shell",
+  "base": "minecraft:wooden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "item_model": "more_tool_trim:wooden_axe_flow_and_nautilus_trim",
+      "minecraft:trim": {
+        "material": "minecraft:nautilus",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

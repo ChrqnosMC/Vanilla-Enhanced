@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:coal",
+  "base": "minecraft:wooden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "item_model": "more_tool_trim:wooden_pickaxe_host_and_coal_trim",
+      "minecraft:trim": {
+        "material": "minecraft:coal",
+        "pattern": "minecraft:host"
+      }
+    }
+  },
+  "template": "minecraft:host_armor_trim_smithing_template"
+}

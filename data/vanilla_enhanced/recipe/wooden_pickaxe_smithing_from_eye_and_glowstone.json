@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glowstone_dust",
+  "base": "minecraft:wooden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_pickaxe",
+    "components": {
+      "item_model": "more_tool_trim:wooden_pickaxe_eye_and_glowstone_trim",
+      "minecraft:trim": {
+        "material": "minecraft:glowstone",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

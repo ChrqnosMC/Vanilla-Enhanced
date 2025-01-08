@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:slime_ball",
+  "base": "minecraft:diamond_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "item_model": "more_tool_trim:diamond_sword_flow_and_slime_trim",
+      "minecraft:trim": {
+        "material": "minecraft:slime",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

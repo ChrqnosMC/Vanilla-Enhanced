@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:heart_of_the_sea",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "item_model": "more_tool_trim:netherite_sword_ward_and_heart_of_the_sea_trim",
+      "minecraft:trim": {
+        "material": "minecraft:heart_of_the_sea",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

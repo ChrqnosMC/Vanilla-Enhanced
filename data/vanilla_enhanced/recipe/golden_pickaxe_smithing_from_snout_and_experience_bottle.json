@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:experience_bottle",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "item_model": "more_tool_trim:golden_pickaxe_snout_and_experience_bottle_trim",
+      "minecraft:trim": {
+        "material": "minecraft:experience_bottle",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
+}

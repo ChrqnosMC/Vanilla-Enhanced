@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:honeycomb",
+  "base": "minecraft:wooden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "item_model": "more_tool_trim:wooden_sword_spire_and_honeycomb_trim",
+      "minecraft:trim": {
+        "material": "minecraft:honeycomb",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
+}

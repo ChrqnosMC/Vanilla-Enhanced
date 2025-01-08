@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:fire_charge",
+  "base": "minecraft:stone_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "item_model": "more_tool_trim:stone_axe_eye_and_fire_charge_trim",
+      "minecraft:trim": {
+        "material": "minecraft:fire_charge",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

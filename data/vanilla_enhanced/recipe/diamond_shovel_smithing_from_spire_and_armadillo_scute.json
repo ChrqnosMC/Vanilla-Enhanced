@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:armadillo_scute",
+  "base": "minecraft:diamond_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "item_model": "more_tool_trim:diamond_shovel_spire_and_armadillo_scute_trim",
+      "minecraft:trim": {
+        "material": "minecraft:armadillo_scute",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
+}

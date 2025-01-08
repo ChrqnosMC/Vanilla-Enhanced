@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:blaze_rod",
+  "base": "minecraft:diamond_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_pickaxe",
+    "components": {
+      "item_model": "more_tool_trim:diamond_pickaxe_wayfinder_and_blaze_rod_trim",
+      "minecraft:trim": {
+        "material": "minecraft:blaze_rod",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}

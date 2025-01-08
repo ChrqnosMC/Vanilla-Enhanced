@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_shard",
+  "base": "minecraft:golden_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "item_model": "more_tool_trim:golden_hoe_spire_and_prismarine_trim",
+      "minecraft:trim": {
+        "material": "minecraft:prismarine",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
+}
