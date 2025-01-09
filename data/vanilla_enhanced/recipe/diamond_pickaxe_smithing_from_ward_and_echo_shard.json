@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:diamond_pickaxe_ward_and_echo_shard_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_pickaxe_ward_and_echo_shard_trim",
       "minecraft:trim": {
-        "material": "minecraft:echo_shard",
+        "material": "vanilla_enhanced:echo_shard",
         "pattern": "minecraft:ward"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:netherite_pickaxe_snout_and_leather_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_pickaxe_snout_and_leather_trim",
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "vanilla_enhanced:leather",
         "pattern": "minecraft:snout"
       }
     }

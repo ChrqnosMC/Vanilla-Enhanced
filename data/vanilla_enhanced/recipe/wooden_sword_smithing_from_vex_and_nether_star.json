@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "item_model": "more_tool_trim:wooden_sword_vex_and_nether_star_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_sword_vex_and_nether_star_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:vex"
       }
     }

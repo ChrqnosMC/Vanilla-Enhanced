@@ -75,7 +75,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'City Key'",
-                "minecraft:item_model": "more_vault:city_key"
+                "minecraft:item_model": "vanilla_enhanced:city_key"
               }
             }
           ]
@@ -132,7 +132,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Ominous City Key'",
-                "minecraft:item_model": "more_vault:ominous_city_key"
+                "minecraft:item_model": "vanilla_enhanced:ominous_city_key"
               }
             }
           ]

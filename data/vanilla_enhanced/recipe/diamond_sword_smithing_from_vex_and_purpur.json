@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "more_tool_trim:diamond_sword_vex_and_purpur_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_sword_vex_and_purpur_trim",
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:vex"
       }
     }

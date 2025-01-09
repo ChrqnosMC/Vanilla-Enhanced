@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "item_model": "more_tool_trim:wooden_shovel_eye_and_gunpowder_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_shovel_eye_and_gunpowder_trim",
       "minecraft:trim": {
-        "material": "minecraft:gunpowder",
+        "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:eye"
       }
     }

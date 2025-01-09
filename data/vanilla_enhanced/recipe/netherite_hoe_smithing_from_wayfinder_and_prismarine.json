@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "item_model": "more_tool_trim:netherite_hoe_wayfinder_and_prismarine_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_hoe_wayfinder_and_prismarine_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "vanilla_enhanced:prismarine",
         "pattern": "minecraft:wayfinder"
       }
     }

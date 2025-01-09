@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "item_model": "more_tool_trim:iron_hoe_bolt_and_purpur_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_hoe_bolt_and_purpur_trim",
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:bolt"
       }
     }

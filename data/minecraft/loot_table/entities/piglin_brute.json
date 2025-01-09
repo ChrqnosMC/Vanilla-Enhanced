@@ -53,7 +53,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Bastion Key'",
-                "minecraft:item_model": "more_vault:bastion_key"
+                "minecraft:item_model": "vanilla_enhanced:bastion_key"
               }
             }
           ]
@@ -110,7 +110,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Ominous Bastion Key'",
-                "minecraft:item_model": "more_vault:ominous_bastion_key"
+                "minecraft:item_model": "vanilla_enhanced:ominous_bastion_key"
               }
             }
           ]

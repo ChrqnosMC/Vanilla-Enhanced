@@ -50,7 +50,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Echo Key'",
-                "minecraft:item_model": "more_vault:echo_key"
+                "minecraft:item_model": "vanilla_enhanced:echo_key"
               }
             }
           ]

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "item_model": "more_tool_trim:diamond_hoe_eye_and_coal_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_hoe_eye_and_coal_trim",
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:eye"
       }
     }

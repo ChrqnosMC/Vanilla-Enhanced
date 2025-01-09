@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "item_model": "more_tool_trim:netherite_sword_vex_and_lapis_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_sword_vex_and_lapis_trim",
       "minecraft:trim": {
         "material": "minecraft:lapis",
         "pattern": "minecraft:vex"

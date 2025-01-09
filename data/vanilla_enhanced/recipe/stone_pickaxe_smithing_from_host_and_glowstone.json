@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:stone_pickaxe_host_and_glowstone_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_pickaxe_host_and_glowstone_trim",
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:host"
       }
     }

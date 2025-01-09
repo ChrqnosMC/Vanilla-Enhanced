@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:wooden_pickaxe_wayfinder_and_amethyst_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_pickaxe_wayfinder_and_amethyst_trim",
       "minecraft:trim": {
         "material": "minecraft:amethyst",
         "pattern": "minecraft:wayfinder"

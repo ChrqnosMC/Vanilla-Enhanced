@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "item_model": "more_tool_trim:stone_hoe_bolt_and_bone_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_hoe_bolt_and_bone_trim",
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:bolt"
       }
     }

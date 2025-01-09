@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "item_model": "more_tool_trim:iron_sword_eye_and_coal_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_sword_eye_and_coal_trim",
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:eye"
       }
     }

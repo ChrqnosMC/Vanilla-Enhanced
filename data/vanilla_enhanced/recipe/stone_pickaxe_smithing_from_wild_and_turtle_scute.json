@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:stone_pickaxe_wild_and_turtle_scute_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_pickaxe_wild_and_turtle_scute_trim",
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:wild"
       }
     }

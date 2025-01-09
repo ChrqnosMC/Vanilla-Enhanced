@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "item_model": "more_tool_trim:wooden_axe_snout_and_purpur_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_axe_snout_and_purpur_trim",
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:snout"
       }
     }

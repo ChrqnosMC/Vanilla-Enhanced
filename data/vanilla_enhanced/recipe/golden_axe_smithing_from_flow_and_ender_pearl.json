@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "item_model": "more_tool_trim:golden_axe_flow_and_ender_pearl_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_axe_flow_and_ender_pearl_trim",
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:flow"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "item_model": "more_tool_trim:iron_shovel_vex_and_prismarine_crystals_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_shovel_vex_and_prismarine_crystals_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "vanilla_enhanced:prismarine_crystals",
         "pattern": "minecraft:vex"
       }
     }

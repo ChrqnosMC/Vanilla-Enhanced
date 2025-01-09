@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "item_model": "more_tool_trim:diamond_axe_host_and_heart_of_the_sea_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_axe_host_and_heart_of_the_sea_trim",
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:host"
       }
     }

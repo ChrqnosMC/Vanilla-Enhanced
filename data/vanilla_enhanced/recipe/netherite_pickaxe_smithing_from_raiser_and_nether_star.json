@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:netherite_pickaxe_raiser_and_nether_star_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_pickaxe_raiser_and_nether_star_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:raiser"
       }
     }

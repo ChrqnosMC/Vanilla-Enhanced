@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "item_model": "more_tool_trim:stone_axe_spire_and_copper_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_axe_spire_and_copper_trim",
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:spire"

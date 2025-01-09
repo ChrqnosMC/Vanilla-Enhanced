@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "item_model": "more_tool_trim:diamond_shovel_eye_and_nether_star_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_shovel_eye_and_nether_star_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:eye"
       }
     }

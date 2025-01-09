@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "item_model": "more_tool_trim:netherite_shovel_shaper_and_end_crystal_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_shovel_shaper_and_end_crystal_trim",
       "minecraft:trim": {
-        "material": "minecraft:end_crystal",
+        "material": "vanilla_enhanced:end_crystal",
         "pattern": "minecraft:shaper"
       }
     }

@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "item_model": "more_tool_trim:stone_hoe_sentry_and_iron_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_hoe_sentry_and_iron_trim",
       "minecraft:trim": {
         "material": "minecraft:iron",
         "pattern": "minecraft:sentry"

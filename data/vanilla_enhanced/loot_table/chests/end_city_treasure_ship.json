@@ -375,10 +375,10 @@
               "function": "set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
                 ]
               }
             }
@@ -397,10 +397,10 @@
               "function": "set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
                 ]
               }
             }

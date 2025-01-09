@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "item_model": "more_tool_trim:iron_shovel_shaper_and_experience_bottle_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_shovel_shaper_and_experience_bottle_trim",
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:shaper"
       }
     }

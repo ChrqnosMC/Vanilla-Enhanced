@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "item_model": "more_tool_trim:golden_sword_ward_and_blaze_rod_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_sword_ward_and_blaze_rod_trim",
       "minecraft:trim": {
-        "material": "minecraft:blaze_rod",
+        "material": "vanilla_enhanced:blaze_rod",
         "pattern": "minecraft:ward"
       }
     }

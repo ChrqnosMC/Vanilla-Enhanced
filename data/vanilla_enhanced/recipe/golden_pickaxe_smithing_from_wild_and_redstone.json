@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:golden_pickaxe_wild_and_redstone_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_pickaxe_wild_and_redstone_trim",
       "minecraft:trim": {
         "material": "minecraft:redstone",
         "pattern": "minecraft:wild"

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "item_model": "more_tool_trim:iron_axe_shaper_and_netherite_scrap_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_axe_shaper_and_netherite_scrap_trim",
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:shaper"
       }
     }

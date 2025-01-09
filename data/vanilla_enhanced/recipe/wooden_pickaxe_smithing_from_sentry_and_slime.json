@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:wooden_pickaxe_sentry_and_slime_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_pickaxe_sentry_and_slime_trim",
       "minecraft:trim": {
-        "material": "minecraft:slime",
+        "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:sentry"
       }
     }

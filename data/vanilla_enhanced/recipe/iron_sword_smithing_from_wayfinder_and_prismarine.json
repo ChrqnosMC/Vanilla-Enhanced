@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "item_model": "more_tool_trim:iron_sword_wayfinder_and_prismarine_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_sword_wayfinder_and_prismarine_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "vanilla_enhanced:prismarine",
         "pattern": "minecraft:wayfinder"
       }
     }

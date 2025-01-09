@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "item_model": "more_tool_trim:stone_axe_shaper_and_nautilus_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_axe_shaper_and_nautilus_trim",
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:shaper"
       }
     }

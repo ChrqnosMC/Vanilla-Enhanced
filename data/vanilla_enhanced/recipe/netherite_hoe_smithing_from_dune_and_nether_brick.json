@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "item_model": "more_tool_trim:netherite_hoe_dune_and_nether_brick_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_hoe_dune_and_nether_brick_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:dune"
       }
     }

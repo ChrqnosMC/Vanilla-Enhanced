@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "item_model": "more_tool_trim:diamond_axe_ward_and_leather_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_axe_ward_and_leather_trim",
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "vanilla_enhanced:leather",
         "pattern": "minecraft:ward"
       }
     }

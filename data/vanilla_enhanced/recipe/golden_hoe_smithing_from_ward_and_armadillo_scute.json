@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "item_model": "more_tool_trim:golden_hoe_ward_and_armadillo_scute_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_hoe_ward_and_armadillo_scute_trim",
       "minecraft:trim": {
         "material": "minecraft:armadillo_scute",
         "pattern": "minecraft:ward"

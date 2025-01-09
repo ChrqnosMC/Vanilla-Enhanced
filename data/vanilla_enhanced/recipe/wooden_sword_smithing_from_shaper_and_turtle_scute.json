@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "item_model": "more_tool_trim:wooden_sword_shaper_and_turtle_scute_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_sword_shaper_and_turtle_scute_trim",
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:shaper"
       }
     }

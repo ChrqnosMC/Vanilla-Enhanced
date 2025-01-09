@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "item_model": "more_tool_trim:netherite_shovel_bolt_and_dragon_breath_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_shovel_bolt_and_dragon_breath_trim",
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:bolt"
       }
     }

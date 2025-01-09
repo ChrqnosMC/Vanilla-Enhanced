@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:diamond_pickaxe_rib_and_dragon_breath_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_pickaxe_rib_and_dragon_breath_trim",
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:rib"
       }
     }

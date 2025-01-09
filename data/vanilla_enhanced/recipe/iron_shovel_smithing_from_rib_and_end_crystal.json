@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "item_model": "more_tool_trim:iron_shovel_rib_and_end_crystal_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_shovel_rib_and_end_crystal_trim",
       "minecraft:trim": {
-        "material": "minecraft:end_crystal",
+        "material": "vanilla_enhanced:end_crystal",
         "pattern": "minecraft:rib"
       }
     }

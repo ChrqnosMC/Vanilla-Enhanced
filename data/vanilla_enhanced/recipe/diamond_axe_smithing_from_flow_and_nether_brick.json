@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "item_model": "more_tool_trim:diamond_axe_flow_and_nether_brick_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_axe_flow_and_nether_brick_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:flow"
       }
     }

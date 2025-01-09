@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:iron_pickaxe_wayfinder_and_phantom_membrane_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_pickaxe_wayfinder_and_phantom_membrane_trim",
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "vanilla_enhanced:phantom_membrane",
         "pattern": "minecraft:wayfinder"
       }
     }

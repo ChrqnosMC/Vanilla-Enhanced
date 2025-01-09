@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "more_tool_trim:diamond_sword_eye_and_netherite_scrap_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_sword_eye_and_netherite_scrap_trim",
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:eye"
       }
     }

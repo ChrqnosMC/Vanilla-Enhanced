@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "item_model": "more_tool_trim:golden_sword_host_and_experience_bottle_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_sword_host_and_experience_bottle_trim",
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:host"
       }
     }

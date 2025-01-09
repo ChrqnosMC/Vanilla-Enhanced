@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "item_model": "more_tool_trim:golden_sword_host_and_emerald_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_sword_host_and_emerald_trim",
       "minecraft:trim": {
         "material": "minecraft:emerald",
         "pattern": "minecraft:host"

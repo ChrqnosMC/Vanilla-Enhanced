@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "more_tool_trim:diamond_sword_flow_and_phantom_membrane_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_sword_flow_and_phantom_membrane_trim",
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "vanilla_enhanced:phantom_membrane",
         "pattern": "minecraft:flow"
       }
     }

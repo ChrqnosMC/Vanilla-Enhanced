@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "item_model": "more_tool_trim:stone_shovel_ward_and_prismarine_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_shovel_ward_and_prismarine_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "vanilla_enhanced:prismarine",
         "pattern": "minecraft:ward"
       }
     }

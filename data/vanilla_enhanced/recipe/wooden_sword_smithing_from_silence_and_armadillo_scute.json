@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "item_model": "more_tool_trim:wooden_sword_silence_and_armadillo_scute_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_sword_silence_and_armadillo_scute_trim",
       "minecraft:trim": {
         "material": "minecraft:armadillo_scute",
         "pattern": "minecraft:silence"

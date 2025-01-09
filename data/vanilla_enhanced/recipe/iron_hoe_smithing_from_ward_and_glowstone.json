@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "item_model": "more_tool_trim:iron_hoe_ward_and_glowstone_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_hoe_ward_and_glowstone_trim",
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:ward"
       }
     }

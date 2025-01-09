@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:iron_pickaxe_eye_and_rabbit_hide_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_pickaxe_eye_and_rabbit_hide_trim",
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:eye"
       }
     }

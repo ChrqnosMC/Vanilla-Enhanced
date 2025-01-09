@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "item_model": "more_tool_trim:netherite_sword_wild_and_prismarine_crystals_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_sword_wild_and_prismarine_crystals_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "vanilla_enhanced:prismarine_crystals",
         "pattern": "minecraft:wild"
       }
     }

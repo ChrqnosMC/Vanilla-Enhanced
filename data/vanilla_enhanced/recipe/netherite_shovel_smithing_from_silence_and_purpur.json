@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "item_model": "more_tool_trim:netherite_shovel_silence_and_purpur_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_shovel_silence_and_purpur_trim",
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:silence"
       }
     }

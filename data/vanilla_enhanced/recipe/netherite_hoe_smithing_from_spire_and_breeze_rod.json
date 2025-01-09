@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "item_model": "more_tool_trim:netherite_hoe_spire_and_breeze_rod_trim",
+      "minecraft:item_model": "vanilla_enhanced:netherite_hoe_spire_and_breeze_rod_trim",
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:spire"
       }
     }

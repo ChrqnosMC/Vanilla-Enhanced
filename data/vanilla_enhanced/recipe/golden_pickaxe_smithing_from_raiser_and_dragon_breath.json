@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:golden_pickaxe_raiser_and_dragon_breath_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_pickaxe_raiser_and_dragon_breath_trim",
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:raiser"
       }
     }

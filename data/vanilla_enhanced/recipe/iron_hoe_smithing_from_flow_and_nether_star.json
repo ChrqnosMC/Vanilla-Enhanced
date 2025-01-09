@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "item_model": "more_tool_trim:iron_hoe_flow_and_nether_star_trim",
+      "minecraft:item_model": "vanilla_enhanced:iron_hoe_flow_and_nether_star_trim",
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:flow"
       }
     }

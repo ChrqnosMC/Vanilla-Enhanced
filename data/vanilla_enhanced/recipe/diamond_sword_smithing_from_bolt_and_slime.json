@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "more_tool_trim:diamond_sword_bolt_and_slime_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_sword_bolt_and_slime_trim",
       "minecraft:trim": {
-        "material": "minecraft:slime",
+        "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:bolt"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "item_model": "more_tool_trim:wooden_hoe_tide_and_prismarine_crystals_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_hoe_tide_and_prismarine_crystals_trim",
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "vanilla_enhanced:prismarine_crystals",
         "pattern": "minecraft:tide"
       }
     }

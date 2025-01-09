@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "item_model": "more_tool_trim:golden_sword_raiser_and_fire_charge_trim",
+      "minecraft:item_model": "vanilla_enhanced:golden_sword_raiser_and_fire_charge_trim",
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "vanilla_enhanced:fire_charge",
         "pattern": "minecraft:raiser"
       }
     }

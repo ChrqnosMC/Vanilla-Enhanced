@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "item_model": "more_tool_trim:wooden_pickaxe_snout_and_breeze_rod_trim",
+      "minecraft:item_model": "vanilla_enhanced:wooden_pickaxe_snout_and_breeze_rod_trim",
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:snout"
       }
     }

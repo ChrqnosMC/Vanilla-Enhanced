@@ -6,7 +6,7 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "item_model": "more_tool_trim:stone_sword_ward_and_copper_trim",
+      "minecraft:item_model": "vanilla_enhanced:stone_sword_ward_and_copper_trim",
       "minecraft:trim": {
         "material": "minecraft:copper",
         "pattern": "minecraft:ward"

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "item_model": "more_tool_trim:diamond_sword_host_and_rabbit_hide_trim",
+      "minecraft:item_model": "vanilla_enhanced:diamond_sword_host_and_rabbit_hide_trim",
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:host"
       }
     }
