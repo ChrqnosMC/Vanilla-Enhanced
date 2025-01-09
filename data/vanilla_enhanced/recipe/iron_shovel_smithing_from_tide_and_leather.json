@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 480,
+      "minecraft:custom_model_data": 480,
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_tool_trim:leather",
         "pattern": "minecraft:tide"
       }
     }

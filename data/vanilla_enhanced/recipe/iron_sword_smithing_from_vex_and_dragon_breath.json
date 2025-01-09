@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 272,
+      "minecraft:custom_model_data": 272,
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_tool_trim:dragon_breath",
         "pattern": "minecraft:vex"
       }
     }

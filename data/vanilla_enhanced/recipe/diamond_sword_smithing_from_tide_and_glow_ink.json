@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "custom_model_data": 390,
+      "minecraft:custom_model_data": 390,
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:tide"
       }
     }

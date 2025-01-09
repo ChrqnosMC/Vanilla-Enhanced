@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "custom_model_data": 523,
+      "minecraft:custom_model_data": 523,
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "more_tool_trim:nether_star",
         "pattern": "minecraft:sentry"
       }
     }

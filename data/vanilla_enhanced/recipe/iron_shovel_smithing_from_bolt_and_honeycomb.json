@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 468,
+      "minecraft:custom_model_data": 468,
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_tool_trim:honeycomb",
         "pattern": "minecraft:bolt"
       }
     }

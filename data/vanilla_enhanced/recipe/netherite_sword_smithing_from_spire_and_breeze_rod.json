@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "custom_model_data": 250,
+      "minecraft:custom_model_data": 250,
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "more_tool_trim:breeze_rod",
         "pattern": "minecraft:spire"
       }
     }

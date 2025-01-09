@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "custom_model_data": 362,
+      "minecraft:custom_model_data": 362,
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "more_tool_trim:fire_charge",
         "pattern": "minecraft:vex"
       }
     }

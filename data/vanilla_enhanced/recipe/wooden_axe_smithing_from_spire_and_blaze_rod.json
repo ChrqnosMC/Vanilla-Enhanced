@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "custom_model_data": 214,
+      "minecraft:custom_model_data": 214,
       "minecraft:trim": {
-        "material": "minecraft:blaze_rod",
+        "material": "more_tool_trim:blaze_rod",
         "pattern": "minecraft:spire"
       }
     }

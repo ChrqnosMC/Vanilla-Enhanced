@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "custom_model_data": 266,
+      "minecraft:custom_model_data": 266,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:rib"
       }
     }

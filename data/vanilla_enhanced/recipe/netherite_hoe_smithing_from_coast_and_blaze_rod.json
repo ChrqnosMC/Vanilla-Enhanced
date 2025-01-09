@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "custom_model_data": 202,
+      "minecraft:custom_model_data": 202,
       "minecraft:trim": {
-        "material": "minecraft:blaze_rod",
+        "material": "more_tool_trim:blaze_rod",
         "pattern": "minecraft:coast"
       }
     }

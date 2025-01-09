@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 647,
+      "minecraft:custom_model_data": 647,
       "minecraft:trim": {
-        "material": "minecraft:rabbit_hide",
+        "material": "more_tool_trim:rabbit_hide",
         "pattern": "minecraft:flow"
       }
     }

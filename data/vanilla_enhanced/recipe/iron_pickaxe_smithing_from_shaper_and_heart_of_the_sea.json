@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "custom_model_data": 440,
+      "minecraft:custom_model_data": 440,
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "more_tool_trim:heart_of_the_sea",
         "pattern": "minecraft:shaper"
       }
     }

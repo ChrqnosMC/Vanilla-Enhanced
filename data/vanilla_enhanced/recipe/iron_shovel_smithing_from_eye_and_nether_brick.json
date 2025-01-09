@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 519,
+      "minecraft:custom_model_data": 519,
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_tool_trim:nether_brick",
         "pattern": "minecraft:eye"
       }
     }

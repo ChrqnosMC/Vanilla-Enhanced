@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "custom_model_data": 355,
+      "minecraft:custom_model_data": 355,
       "minecraft:trim": {
-        "material": "minecraft:experience_bottle",
+        "material": "more_tool_trim:experience_bottle",
         "pattern": "minecraft:snout"
       }
     }

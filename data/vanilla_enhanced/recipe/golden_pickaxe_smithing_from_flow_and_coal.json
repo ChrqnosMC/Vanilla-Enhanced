@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "custom_model_data": 269,
+      "minecraft:custom_model_data": 269,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:flow"
       }
     }

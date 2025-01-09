@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "custom_model_data": 616,
+      "minecraft:custom_model_data": 616,
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_tool_trim:purpur",
         "pattern": "minecraft:coast"
       }
     }

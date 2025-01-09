@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "custom_model_data": 587,
+      "minecraft:custom_model_data": 587,
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "more_tool_trim:prismarine_crystals",
         "pattern": "minecraft:silence"
       }
     }

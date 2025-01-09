@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "custom_model_data": 681,
+      "minecraft:custom_model_data": 681,
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "more_tool_trim:turtle_scute",
         "pattern": "minecraft:eye"
       }
     }

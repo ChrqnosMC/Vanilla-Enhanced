@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "custom_model_data": 297,
+      "minecraft:custom_model_data": 297,
       "minecraft:trim": {
-        "material": "minecraft:echo_shard",
+        "material": "more_tool_trim:echo_shard",
         "pattern": "minecraft:host"
       }
     }

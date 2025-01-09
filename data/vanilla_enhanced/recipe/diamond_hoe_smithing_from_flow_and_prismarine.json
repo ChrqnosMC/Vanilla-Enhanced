@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "custom_model_data": 611,
+      "minecraft:custom_model_data": 611,
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_tool_trim:prismarine",
         "pattern": "minecraft:flow"
       }
     }

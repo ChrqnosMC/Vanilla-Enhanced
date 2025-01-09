@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "custom_model_data": 260,
+      "minecraft:custom_model_data": 260,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:shaper"
       }
     }

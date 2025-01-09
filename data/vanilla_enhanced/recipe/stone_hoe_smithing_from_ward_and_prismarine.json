@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "custom_model_data": 604,
+      "minecraft:custom_model_data": 604,
       "minecraft:trim": {
-        "material": "minecraft:prismarine",
+        "material": "more_tool_trim:prismarine",
         "pattern": "minecraft:ward"
       }
     }

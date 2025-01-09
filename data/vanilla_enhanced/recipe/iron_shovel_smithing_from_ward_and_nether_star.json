@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "custom_model_data": 532,
+      "minecraft:custom_model_data": 532,
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "more_tool_trim:nether_star",
         "pattern": "minecraft:ward"
       }
     }

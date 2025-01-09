@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "custom_model_data": 253,
+      "minecraft:custom_model_data": 253,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:sentry"
       }
     }

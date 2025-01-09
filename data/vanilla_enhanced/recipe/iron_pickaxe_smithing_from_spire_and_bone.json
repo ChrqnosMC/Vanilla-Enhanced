@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "custom_model_data": 232,
+      "minecraft:custom_model_data": 232,
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_tool_trim:bone",
         "pattern": "minecraft:spire"
       }
     }

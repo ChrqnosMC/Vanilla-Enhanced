@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "custom_model_data": 302,
+      "minecraft:custom_model_data": 302,
       "minecraft:trim": {
-        "material": "minecraft:echo_shard",
+        "material": "more_tool_trim:echo_shard",
         "pattern": "minecraft:rib"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "custom_model_data": 255,
+      "minecraft:custom_model_data": 255,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:wild"
       }
     }

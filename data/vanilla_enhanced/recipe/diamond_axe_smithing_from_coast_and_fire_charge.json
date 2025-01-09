@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "custom_model_data": 364,
+      "minecraft:custom_model_data": 364,
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "more_tool_trim:fire_charge",
         "pattern": "minecraft:coast"
       }
     }

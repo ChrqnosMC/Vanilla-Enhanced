@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "custom_model_data": 265,
+      "minecraft:custom_model_data": 265,
       "minecraft:trim": {
-        "material": "minecraft:coal",
+        "material": "more_tool_trim:coal",
         "pattern": "minecraft:snout"
       }
     }

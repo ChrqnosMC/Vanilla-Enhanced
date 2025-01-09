@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 405,
+      "minecraft:custom_model_data": 405,
       "minecraft:trim": {
-        "material": "minecraft:glowstone",
+        "material": "more_tool_trim:glowstone",
         "pattern": "minecraft:host"
       }
     }

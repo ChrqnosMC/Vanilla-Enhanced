@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "custom_model_data": 522,
+      "minecraft:custom_model_data": 522,
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_tool_trim:nether_brick",
         "pattern": "minecraft:bolt"
       }
     }

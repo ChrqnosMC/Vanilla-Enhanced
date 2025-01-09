@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "custom_model_data": 290,
+      "minecraft:custom_model_data": 290,
       "minecraft:trim": {
-        "material": "minecraft:echo_shard",
+        "material": "more_tool_trim:echo_shard",
         "pattern": "minecraft:vex"
       }
     }

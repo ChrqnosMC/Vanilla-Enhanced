@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "custom_model_data": 558,
+      "minecraft:custom_model_data": 558,
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "more_tool_trim:netherite_scrap",
         "pattern": "minecraft:bolt"
       }
     }

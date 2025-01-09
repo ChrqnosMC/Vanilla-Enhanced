@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "custom_model_data": 284,
+      "minecraft:custom_model_data": 284,
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_tool_trim:dragon_breath",
         "pattern": "minecraft:rib"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "custom_model_data": 479,
+      "minecraft:custom_model_data": 479,
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_tool_trim:leather",
         "pattern": "minecraft:silence"
       }
     }

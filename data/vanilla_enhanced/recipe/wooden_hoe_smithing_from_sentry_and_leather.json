@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "custom_model_data": 469,
+      "minecraft:custom_model_data": 469,
       "minecraft:trim": {
-        "material": "minecraft:leather",
+        "material": "more_tool_trim:leather",
         "pattern": "minecraft:sentry"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "custom_model_data": 275,
+      "minecraft:custom_model_data": 275,
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_tool_trim:dragon_breath",
         "pattern": "minecraft:dune"
       }
     }

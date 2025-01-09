@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "custom_model_data": 629,
+      "minecraft:custom_model_data": 629,
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_tool_trim:purpur",
         "pattern": "minecraft:flow"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "custom_model_data": 189,
+      "minecraft:custom_model_data": 189,
       "minecraft:trim": {
-        "material": "minecraft:armadillo_scute",
+        "material": "more_tool_trim:armadillo_scute",
         "pattern": "minecraft:host"
       }
     }

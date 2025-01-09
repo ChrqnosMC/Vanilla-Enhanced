@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "custom_model_data": 565,
+      "minecraft:custom_model_data": 565,
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "more_tool_trim:phantom_membrane",
         "pattern": "minecraft:raiser"
       }
     }

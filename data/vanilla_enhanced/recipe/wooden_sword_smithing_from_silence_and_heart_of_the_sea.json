@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "custom_model_data": 443,
+      "minecraft:custom_model_data": 443,
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "more_tool_trim:heart_of_the_sea",
         "pattern": "minecraft:silence"
       }
     }

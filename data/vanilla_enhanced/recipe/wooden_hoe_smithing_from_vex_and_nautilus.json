@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "custom_model_data": 488,
+      "minecraft:custom_model_data": 488,
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "more_tool_trim:nautilus",
         "pattern": "minecraft:vex"
       }
     }

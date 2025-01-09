@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "custom_model_data": 441,
+      "minecraft:custom_model_data": 441,
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "more_tool_trim:heart_of_the_sea",
         "pattern": "minecraft:host"
       }
     }

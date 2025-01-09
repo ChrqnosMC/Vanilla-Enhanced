@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "custom_model_data": 383,
+      "minecraft:custom_model_data": 383,
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:dune"
       }
     }

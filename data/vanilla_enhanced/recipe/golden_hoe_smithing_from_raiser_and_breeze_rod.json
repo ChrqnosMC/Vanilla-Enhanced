@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "custom_model_data": 241,
+      "minecraft:custom_model_data": 241,
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "more_tool_trim:breeze_rod",
         "pattern": "minecraft:raiser"
       }
     }

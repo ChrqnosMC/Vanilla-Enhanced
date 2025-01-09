@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "custom_model_data": 542,
+      "minecraft:custom_model_data": 542,
       "minecraft:trim": {
-        "material": "minecraft:netherite_scrap",
+        "material": "more_tool_trim:netherite_scrap",
         "pattern": "minecraft:vex"
       }
     }

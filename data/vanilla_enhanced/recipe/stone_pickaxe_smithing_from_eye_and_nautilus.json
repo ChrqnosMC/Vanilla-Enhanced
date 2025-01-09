@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "custom_model_data": 501,
+      "minecraft:custom_model_data": 501,
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "more_tool_trim:nautilus",
         "pattern": "minecraft:eye"
       }
     }

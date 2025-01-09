@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "custom_model_data": 461,
+      "minecraft:custom_model_data": 461,
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_tool_trim:honeycomb",
         "pattern": "minecraft:silence"
       }
     }

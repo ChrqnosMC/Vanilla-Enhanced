@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "custom_model_data": 271,
+      "minecraft:custom_model_data": 271,
       "minecraft:trim": {
-        "material": "minecraft:dragon_breath",
+        "material": "more_tool_trim:dragon_breath",
         "pattern": "minecraft:sentry"
       }
     }

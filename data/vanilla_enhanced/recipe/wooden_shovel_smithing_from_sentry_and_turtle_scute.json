@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "custom_model_data": 667,
+      "minecraft:custom_model_data": 667,
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "more_tool_trim:turtle_scute",
         "pattern": "minecraft:sentry"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 419,
+      "minecraft:custom_model_data": 419,
       "minecraft:trim": {
-        "material": "minecraft:gunpowder",
+        "material": "more_tool_trim:gunpowder",
         "pattern": "minecraft:dune"
       }
     }

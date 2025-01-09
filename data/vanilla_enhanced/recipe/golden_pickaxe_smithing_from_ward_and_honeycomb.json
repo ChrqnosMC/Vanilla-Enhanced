@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "custom_model_data": 460,
+      "minecraft:custom_model_data": 460,
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_tool_trim:honeycomb",
         "pattern": "minecraft:ward"
       }
     }

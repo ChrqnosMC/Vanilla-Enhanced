@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "custom_model_data": 569,
+      "minecraft:custom_model_data": 569,
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "more_tool_trim:phantom_membrane",
         "pattern": "minecraft:silence"
       }
     }

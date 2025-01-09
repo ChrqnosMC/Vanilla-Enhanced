@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "custom_model_data": 218,
+      "minecraft:custom_model_data": 218,
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_tool_trim:bone",
         "pattern": "minecraft:vex"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "custom_model_data": 458,
+      "minecraft:custom_model_data": 458,
       "minecraft:trim": {
-        "material": "minecraft:honeycomb",
+        "material": "more_tool_trim:honeycomb",
         "pattern": "minecraft:shaper"
       }
     }

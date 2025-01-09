@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "custom_model_data": 500,
+      "minecraft:custom_model_data": 500,
       "minecraft:trim": {
-        "material": "minecraft:nautilus",
+        "material": "more_tool_trim:nautilus",
         "pattern": "minecraft:rib"
       }
     }

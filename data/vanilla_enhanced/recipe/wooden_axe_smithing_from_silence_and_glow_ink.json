@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "custom_model_data": 389,
+      "minecraft:custom_model_data": 389,
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:silence"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "custom_model_data": 625,
+      "minecraft:custom_model_data": 625,
       "minecraft:trim": {
-        "material": "minecraft:purpur",
+        "material": "more_tool_trim:purpur",
         "pattern": "minecraft:snout"
       }
     }

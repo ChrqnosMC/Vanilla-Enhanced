@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "custom_model_data": 222,
+      "minecraft:custom_model_data": 222,
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_tool_trim:bone",
         "pattern": "minecraft:wayfinder"
       }
     }

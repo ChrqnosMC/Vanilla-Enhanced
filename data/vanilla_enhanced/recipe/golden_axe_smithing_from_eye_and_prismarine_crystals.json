@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "custom_model_data": 591,
+      "minecraft:custom_model_data": 591,
       "minecraft:trim": {
-        "material": "minecraft:prismarine_crystals",
+        "material": "more_tool_trim:prismarine_crystals",
         "pattern": "minecraft:eye"
       }
     }

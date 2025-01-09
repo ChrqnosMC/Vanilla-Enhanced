@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "custom_model_data": 526,
+      "minecraft:custom_model_data": 526,
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "more_tool_trim:nether_star",
         "pattern": "minecraft:coast"
       }
     }

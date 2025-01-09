@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "custom_model_data": 388,
+      "minecraft:custom_model_data": 388,
       "minecraft:trim": {
-        "material": "minecraft:glow_ink",
+        "material": "more_tool_trim:glow_ink",
         "pattern": "minecraft:ward"
       }
     }

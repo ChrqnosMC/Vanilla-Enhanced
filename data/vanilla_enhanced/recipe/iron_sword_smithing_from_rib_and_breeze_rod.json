@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 248,
+      "minecraft:custom_model_data": 248,
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "more_tool_trim:breeze_rod",
         "pattern": "minecraft:rib"
       }
     }

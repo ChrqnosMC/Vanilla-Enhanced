@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "custom_model_data": 229,
+      "minecraft:custom_model_data": 229,
       "minecraft:trim": {
-        "material": "minecraft:bone",
+        "material": "more_tool_trim:bone",
         "pattern": "minecraft:snout"
       }
     }

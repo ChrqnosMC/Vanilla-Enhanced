@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "custom_model_data": 534,
+      "minecraft:custom_model_data": 534,
       "minecraft:trim": {
-        "material": "minecraft:nether_star",
+        "material": "more_tool_trim:nether_star",
         "pattern": "minecraft:tide"
       }
     }

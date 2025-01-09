@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "custom_model_data": 246,
+      "minecraft:custom_model_data": 246,
       "minecraft:trim": {
-        "material": "minecraft:breeze_rod",
+        "material": "more_tool_trim:breeze_rod",
         "pattern": "minecraft:tide"
       }
     }

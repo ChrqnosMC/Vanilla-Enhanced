@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "custom_model_data": 514,
+      "minecraft:custom_model_data": 514,
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_tool_trim:nether_brick",
         "pattern": "minecraft:ward"
       }
     }

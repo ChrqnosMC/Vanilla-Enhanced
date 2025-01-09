@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "custom_model_data": 669,
+      "minecraft:custom_model_data": 669,
       "minecraft:trim": {
-        "material": "minecraft:turtle_scute",
+        "material": "more_tool_trim:turtle_scute",
         "pattern": "minecraft:wild"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "custom_model_data": 562,
+      "minecraft:custom_model_data": 562,
       "minecraft:trim": {
-        "material": "minecraft:phantom_membrane",
+        "material": "more_tool_trim:phantom_membrane",
         "pattern": "minecraft:coast"
       }
     }

@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "custom_model_data": 342,
+      "minecraft:custom_model_data": 342,
       "minecraft:trim": {
-        "material": "minecraft:ender_pearl",
+        "material": "more_tool_trim:ender_pearl",
         "pattern": "minecraft:bolt"
       }
     }

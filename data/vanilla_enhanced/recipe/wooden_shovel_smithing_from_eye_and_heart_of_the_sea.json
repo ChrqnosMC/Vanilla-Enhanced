@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "custom_model_data": 447,
+      "minecraft:custom_model_data": 447,
       "minecraft:trim": {
-        "material": "minecraft:heart_of_the_sea",
+        "material": "more_tool_trim:heart_of_the_sea",
         "pattern": "minecraft:eye"
       }
     }

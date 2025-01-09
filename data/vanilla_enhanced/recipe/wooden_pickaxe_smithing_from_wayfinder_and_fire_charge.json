@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "custom_model_data": 366,
+      "minecraft:custom_model_data": 366,
       "minecraft:trim": {
-        "material": "minecraft:fire_charge",
+        "material": "more_tool_trim:fire_charge",
         "pattern": "minecraft:wayfinder"
       }
     }

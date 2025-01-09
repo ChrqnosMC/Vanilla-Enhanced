@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "custom_model_data": 661,
+      "minecraft:custom_model_data": 661,
       "minecraft:trim": {
-        "material": "minecraft:slime",
+        "material": "more_tool_trim:slime",
         "pattern": "minecraft:snout"
       }
     }

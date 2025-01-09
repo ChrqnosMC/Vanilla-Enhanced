@@ -6,9 +6,9 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "custom_model_data": 505,
+      "minecraft:custom_model_data": 505,
       "minecraft:trim": {
-        "material": "minecraft:nether_brick",
+        "material": "more_tool_trim:nether_brick",
         "pattern": "minecraft:sentry"
       }
     }
