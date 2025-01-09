@@ -1,7 +1,7 @@
 {
   "name": "vanilla-enhanced-dp",
   "version": "1.0.0",
-  "description": "Resourcepack that works with Tool Trim DP",
+  "description": "Datapack that adds a wide range of features to the basic game",
   "main": "index.js",
   "scripts": {
     "generate": "tsx generator/index.ts"
