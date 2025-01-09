@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:honeycomb",
+        "material": "vanilla_enhanced:honeycomb",
         "pattern": "minecraft:snout"
       }
     }

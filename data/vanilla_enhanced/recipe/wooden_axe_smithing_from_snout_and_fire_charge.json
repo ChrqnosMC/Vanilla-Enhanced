@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:fire_charge",
+        "material": "vanilla_enhanced:fire_charge",
         "pattern": "minecraft:snout"
       }
     }

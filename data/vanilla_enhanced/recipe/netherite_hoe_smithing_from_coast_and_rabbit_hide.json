@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:rabbit_hide",
+        "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:coast"
       }
     }

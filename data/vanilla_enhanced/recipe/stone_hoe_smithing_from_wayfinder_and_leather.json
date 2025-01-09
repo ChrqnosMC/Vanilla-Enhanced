@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:leather",
+        "material": "vanilla_enhanced:leather",
         "pattern": "minecraft:wayfinder"
       }
     }

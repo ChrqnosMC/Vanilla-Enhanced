@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:heart_of_the_sea",
+        "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:dune"
       }
     }

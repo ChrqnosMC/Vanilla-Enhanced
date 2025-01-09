@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:bone",
+        "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:eye"
       }
     }

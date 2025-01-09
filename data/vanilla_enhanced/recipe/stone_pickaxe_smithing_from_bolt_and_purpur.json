@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:bolt"
       }
     }

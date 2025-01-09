@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:prismarine_crystals",
+        "material": "vanilla_enhanced:prismarine_crystals",
         "pattern": "minecraft:spire"
       }
     }

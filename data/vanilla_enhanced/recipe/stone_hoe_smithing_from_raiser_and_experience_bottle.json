@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:experience_bottle",
+        "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:raiser"
       }
     }

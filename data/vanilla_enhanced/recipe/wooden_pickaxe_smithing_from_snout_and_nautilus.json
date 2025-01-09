@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:nautilus",
+        "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:snout"
       }
     }

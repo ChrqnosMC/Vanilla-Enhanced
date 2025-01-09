@@ -84,7 +84,7 @@
               "function": "minecraft:set_components",
               "components": {
                 "minecraft:item_name": "'Woodland Key'",
-                "minecraft:item_model": "more_vault:woodland_key"
+                "minecraft:item_model": "vanilla_enhanced:woodland_key"
               }
             }
           ]

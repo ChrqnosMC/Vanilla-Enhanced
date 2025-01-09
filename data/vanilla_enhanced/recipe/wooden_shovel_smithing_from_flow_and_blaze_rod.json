@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:blaze_rod",
+        "material": "vanilla_enhanced:blaze_rod",
         "pattern": "minecraft:flow"
       }
     }

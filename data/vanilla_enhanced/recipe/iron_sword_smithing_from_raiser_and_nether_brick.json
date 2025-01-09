@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:nether_brick",
+        "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:raiser"
       }
     }

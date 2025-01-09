@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:gunpowder",
+        "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:raiser"
       }
     }

@@ -80,10 +80,10 @@
               "function": "minecraft:set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
                 ]
               }
             }
@@ -98,10 +98,10 @@
               "function": "minecraft:set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
                 ]
               }
             }
@@ -116,10 +116,10 @@
               "function": "minecraft:set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
                 ]
               }
             }
@@ -134,10 +134,10 @@
               "function": "minecraft:set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
                 ]
               }
             }
@@ -152,10 +152,10 @@
               "function": "minecraft:set_components",
               "components": {
                 "item_name": "'Dreaming Bottle'",
-                "item_model": "more_vault:dreaming_bottle",
+                "item_model": "vanilla_enhanced:dreaming_bottle",
                 "!ominous_bottle_amplifier": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
                 ]
               }
             }

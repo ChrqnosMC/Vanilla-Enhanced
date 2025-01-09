@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:nether_star",
+        "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:flow"
       }
     }

@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:glowstone",
+        "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:flow"
       }
     }

@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:turtle_scute",
+        "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:tide"
       }
     }

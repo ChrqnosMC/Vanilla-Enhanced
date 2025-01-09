@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:coal",
+        "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:bolt"
       }
     }

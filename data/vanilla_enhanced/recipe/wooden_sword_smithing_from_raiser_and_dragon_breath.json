@@ -12,7 +12,7 @@
         ]
       },
       "minecraft:trim": {
-        "material": "more_tool_trim:dragon_breath",
+        "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:raiser"
       }
     }
