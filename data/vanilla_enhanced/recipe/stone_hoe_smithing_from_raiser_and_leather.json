@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 475,
       "minecraft:trim": {
-        "material": "more_tool_trim:leather",
+        "material": "vanilla_enhanced:leather",
         "pattern": "minecraft:raiser"
       }
     }

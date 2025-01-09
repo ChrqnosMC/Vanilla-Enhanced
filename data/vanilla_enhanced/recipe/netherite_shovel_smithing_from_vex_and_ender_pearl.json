@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 326,
       "minecraft:trim": {
-        "material": "more_tool_trim:ender_pearl",
+        "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:vex"
       }
     }

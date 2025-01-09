@@ -2,7 +2,7 @@
   "asset_name": "blaze_rod",
   "description": {
     "color": "#ff9900",
-    "translate": "trim_material.more_armor_trim.blaze_rod"
+    "translate": "trim_material.vanilla_enhanced.blaze_rod"
   },
   "ingredient": "minecraft:blaze_rod",
   "item_model_index": 0.01

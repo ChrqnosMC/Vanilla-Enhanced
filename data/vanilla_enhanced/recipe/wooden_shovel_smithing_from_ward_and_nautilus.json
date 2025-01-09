@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 496,
       "minecraft:trim": {
-        "material": "more_tool_trim:nautilus",
+        "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:ward"
       }
     }

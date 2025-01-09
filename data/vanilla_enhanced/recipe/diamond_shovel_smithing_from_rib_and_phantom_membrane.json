@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 572,
       "minecraft:trim": {
-        "material": "more_tool_trim:phantom_membrane",
+        "material": "vanilla_enhanced:phantom_membrane",
         "pattern": "minecraft:rib"
       }
     }

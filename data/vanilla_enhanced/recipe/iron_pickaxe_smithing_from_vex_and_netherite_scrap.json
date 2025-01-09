@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 542,
       "minecraft:trim": {
-        "material": "more_tool_trim:netherite_scrap",
+        "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:vex"
       }
     }

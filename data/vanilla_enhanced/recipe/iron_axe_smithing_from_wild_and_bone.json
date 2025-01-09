@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 219,
       "minecraft:trim": {
-        "material": "more_tool_trim:bone",
+        "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:wild"
       }
     }

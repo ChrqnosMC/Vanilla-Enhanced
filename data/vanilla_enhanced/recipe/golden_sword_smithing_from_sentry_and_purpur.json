@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 613,
       "minecraft:trim": {
-        "material": "more_tool_trim:purpur",
+        "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:sentry"
       }
     }

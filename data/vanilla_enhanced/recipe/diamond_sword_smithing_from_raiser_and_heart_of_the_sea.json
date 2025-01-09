@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 439,
       "minecraft:trim": {
-        "material": "more_tool_trim:heart_of_the_sea",
+        "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:raiser"
       }
     }

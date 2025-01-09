@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 197,
       "minecraft:trim": {
-        "material": "more_tool_trim:armadillo_scute",
+        "material": "vanilla_enhanced:armadillo_scute",
         "pattern": "minecraft:flow"
       }
     }

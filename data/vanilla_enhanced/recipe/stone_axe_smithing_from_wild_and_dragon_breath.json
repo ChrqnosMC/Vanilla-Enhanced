@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 273,
       "minecraft:trim": {
-        "material": "more_tool_trim:dragon_breath",
+        "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:wild"
       }
     }

@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 245,
       "minecraft:trim": {
-        "material": "more_tool_trim:breeze_rod",
+        "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:silence"
       }
     }

@@ -2,7 +2,7 @@
   "asset_name": "slime",
   "description": {
     "color": "#83be6d",
-    "translate": "trim_material.more_armor_trim.slime"
+    "translate": "trim_material.vanilla_enhanced.slime"
   },
   "ingredient": "minecraft:slime_ball",
   "item_model_index": 0.28

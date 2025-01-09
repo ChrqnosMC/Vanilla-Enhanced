@@ -8,7 +8,7 @@
     "components": {
       "minecraft:custom_model_data": 389,
       "minecraft:trim": {
-        "material": "more_tool_trim:glow_ink",
+        "material": "vanilla_enhanced:glow_ink",
         "pattern": "minecraft:silence"
       }
     }

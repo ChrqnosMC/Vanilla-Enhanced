@@ -2,7 +2,7 @@
   "asset_name": "netherite_scrap",
   "description": {
     "color": "#7e6059",
-    "translate": "trim_material.more_armor_trim.netherite_scrap"
+    "translate": "trim_material.vanilla_enhanced.netherite_scrap"
   },
   "ingredient": "minecraft:netherite_scrap",
   "item_model_index": 0.22

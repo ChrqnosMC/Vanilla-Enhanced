@@ -2,7 +2,7 @@
   "asset_name": "nautilus",
   "description": {
     "color": "#baad96",
-    "translate": "trim_material.more_armor_trim.nautilus"
+    "translate": "trim_material.vanilla_enhanced.nautilus"
   },
   "ingredient": "minecraft:nautilus_shell",
   "item_model_index": 0.18

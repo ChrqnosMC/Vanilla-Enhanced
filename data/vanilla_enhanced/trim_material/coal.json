@@ -2,7 +2,7 @@
   "asset_name": "coal",
   "description": {
     "color": "#2e2e2e",
-    "translate": "trim_material.more_armor_trim.coal"
+    "translate": "trim_material.vanilla_enhanced.coal"
   },
   "ingredient": "minecraft:coal",
   "item_model_index": 0.03

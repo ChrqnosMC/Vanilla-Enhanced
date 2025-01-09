@@ -83,7 +83,7 @@
                 "custom_model_data": 1,
                 "hide_additional_tooltip": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
                 ]
               }
             }
@@ -101,7 +101,7 @@
                 "custom_model_data": 1,
                 "hide_additional_tooltip": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle2', 'fallback': 'Dreaming II (40:00)' }"
                 ]
               }
             }
@@ -119,7 +119,7 @@
                 "custom_model_data": 1,
                 "hide_additional_tooltip": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
                 ]
               }
             }
@@ -137,7 +137,7 @@
                 "custom_model_data": 1,
                 "hide_additional_tooltip": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
                 ]
               }
             }
@@ -155,7 +155,7 @@
                 "custom_model_data": 1,
                 "hide_additional_tooltip": {},
                 "lore": [
-                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
                 ]
               }
             }
