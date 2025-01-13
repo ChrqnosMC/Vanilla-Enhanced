@@ -134,8 +134,12 @@ async function writeItemRecipes() {
           : `./generator/output/data/vanilla_enhanced/recipe/${tool}_smithing_from_${trim}_and_${material}.json`
         const recipeContents = {
           type: 'minecraft:smithing_transform',
-          addition: `minecraft:${items[material]}`,
-          base: `minecraft:${tool}`,
+          addition: {
+            item: `minecraft:${items[material]}`
+          },
+          base: {
+            item: `minecraft:${tool}`
+          },
           result: {
             count: 1,
             id: `minecraft:${tool}`,
@@ -147,7 +151,9 @@ async function writeItemRecipes() {
               }
             }
           },
-          template: `minecraft:${trim}_armor_trim_smithing_template`
+          template: {
+            item: `minecraft:${trim}_armor_trim_smithing_template`
+          }
         }
 
         promises.push(()=>writeFile(recipeFile, JSON.stringify(recipeContents, null, 2)))
