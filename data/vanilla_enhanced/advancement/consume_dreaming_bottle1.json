@@ -12,7 +12,7 @@
 						"custom_model_data": 1,
 						"hide_additional_tooltip": {},
 						"lore": [
-							"{ 'color': 'blue', 'italic': false, 'translate': 'item.more_vault.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
+							"{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle1', 'fallback': 'Dreaming (20:00)' }"
 						]
 					}
 				}
