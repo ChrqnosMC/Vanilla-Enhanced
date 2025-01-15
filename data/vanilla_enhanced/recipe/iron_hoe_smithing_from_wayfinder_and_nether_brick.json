@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "minecraft:custom_model_data": 510,
+      "minecraft:custom_model_data": 219,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:wayfinder"

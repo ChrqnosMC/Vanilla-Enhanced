@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "minecraft:custom_model_data": 195,
+      "minecraft:custom_model_data": 543,
       "minecraft:trim": {
         "material": "vanilla_enhanced:armadillo_scute",
         "pattern": "minecraft:eye"

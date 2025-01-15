@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:custom_model_data": 550,
+      "minecraft:custom_model_data": 373,
       "minecraft:trim": {
         "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:ward"

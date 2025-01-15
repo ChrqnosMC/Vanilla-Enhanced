@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "minecraft:custom_model_data": 599,
+      "minecraft:custom_model_data": 186,
       "minecraft:trim": {
         "material": "vanilla_enhanced:prismarine",
         "pattern": "minecraft:dune"

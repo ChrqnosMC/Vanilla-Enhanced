@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "minecraft:custom_model_data": 241,
+      "minecraft:custom_model_data": 242,
       "minecraft:trim": {
         "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:raiser"

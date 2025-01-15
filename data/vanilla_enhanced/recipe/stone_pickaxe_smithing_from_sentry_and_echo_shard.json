@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 289,
+      "minecraft:custom_model_data": 17,
       "minecraft:trim": {
         "material": "vanilla_enhanced:echo_shard",
         "pattern": "minecraft:sentry"

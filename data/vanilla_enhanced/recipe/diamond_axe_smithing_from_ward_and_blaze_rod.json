@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:custom_model_data": 208,
+      "minecraft:custom_model_data": 354,
       "minecraft:trim": {
         "material": "vanilla_enhanced:blaze_rod",
         "pattern": "minecraft:ward"

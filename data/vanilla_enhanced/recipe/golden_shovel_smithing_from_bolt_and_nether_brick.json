@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "minecraft:custom_model_data": 522,
+      "minecraft:custom_model_data": 675,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:bolt"

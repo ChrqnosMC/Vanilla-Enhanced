@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 539,
+      "minecraft:custom_model_data": 638,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:flow"

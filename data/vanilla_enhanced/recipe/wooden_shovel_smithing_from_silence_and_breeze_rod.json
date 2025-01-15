@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "minecraft:custom_model_data": 245,
+      "minecraft:custom_model_data": 394,
       "minecraft:trim": {
         "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:silence"

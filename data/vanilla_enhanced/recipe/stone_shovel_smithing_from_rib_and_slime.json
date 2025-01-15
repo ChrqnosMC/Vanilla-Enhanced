@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "minecraft:custom_model_data": 662,
+      "minecraft:custom_model_data": 531,
       "minecraft:trim": {
         "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:rib"

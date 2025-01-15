@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:custom_model_data": 669,
+      "minecraft:custom_model_data": 114,
       "minecraft:trim": {
         "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:wild"

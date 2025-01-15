@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_sword",
     "components": {
-      "minecraft:custom_model_data": 310,
+      "minecraft:custom_model_data": 132,
       "minecraft:trim": {
         "material": "vanilla_enhanced:end_crystal",
         "pattern": "minecraft:coast"

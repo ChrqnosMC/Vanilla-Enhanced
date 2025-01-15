@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_shovel",
     "components": {
-      "minecraft:custom_model_data": 282,
+      "minecraft:custom_model_data": 434,
       "minecraft:trim": {
         "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:tide"

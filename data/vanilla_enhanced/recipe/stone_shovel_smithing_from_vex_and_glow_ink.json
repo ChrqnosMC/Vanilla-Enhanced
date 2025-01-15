@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "minecraft:custom_model_data": 380,
+      "minecraft:custom_model_data": 60,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glow_ink",
         "pattern": "minecraft:vex"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "minecraft:custom_model_data": 352,
+      "minecraft:custom_model_data": 362,
       "minecraft:trim": {
         "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:ward"

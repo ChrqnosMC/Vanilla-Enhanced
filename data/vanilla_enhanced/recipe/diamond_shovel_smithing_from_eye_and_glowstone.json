@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:custom_model_data": 411,
+      "minecraft:custom_model_data": 555,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:eye"

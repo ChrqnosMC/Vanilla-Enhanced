@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 325,
+      "minecraft:custom_model_data": 19,
       "minecraft:trim": {
         "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:sentry"

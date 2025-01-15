@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "minecraft:custom_model_data": 257,
+      "minecraft:custom_model_data": 167,
       "minecraft:trim": {
         "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:dune"

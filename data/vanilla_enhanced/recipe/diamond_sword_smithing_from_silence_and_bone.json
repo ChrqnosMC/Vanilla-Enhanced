@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "minecraft:custom_model_data": 227,
+      "minecraft:custom_model_data": 393,
       "minecraft:trim": {
         "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:silence"

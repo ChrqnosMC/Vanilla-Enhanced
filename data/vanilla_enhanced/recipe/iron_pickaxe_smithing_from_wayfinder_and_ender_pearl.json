@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 330,
+      "minecraft:custom_model_data": 209,
       "minecraft:trim": {
         "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:wayfinder"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "minecraft:custom_model_data": 680,
+      "minecraft:custom_model_data": 532,
       "minecraft:trim": {
         "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:rib"

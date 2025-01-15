@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "minecraft:custom_model_data": 441,
+      "minecraft:custom_model_data": 329,
       "minecraft:trim": {
         "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:host"

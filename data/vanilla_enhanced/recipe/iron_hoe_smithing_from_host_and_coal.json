@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "minecraft:custom_model_data": 261,
+      "minecraft:custom_model_data": 319,
       "minecraft:trim": {
         "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:host"

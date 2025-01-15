@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 508,
+      "minecraft:custom_model_data": 143,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:coast"

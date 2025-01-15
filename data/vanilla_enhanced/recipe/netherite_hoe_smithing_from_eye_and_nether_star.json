@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 537,
+      "minecraft:custom_model_data": 562,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_star",
         "pattern": "minecraft:eye"

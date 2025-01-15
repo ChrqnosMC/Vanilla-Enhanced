@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 451,
+      "minecraft:custom_model_data": 26,
       "minecraft:trim": {
         "material": "vanilla_enhanced:honeycomb",
         "pattern": "minecraft:sentry"

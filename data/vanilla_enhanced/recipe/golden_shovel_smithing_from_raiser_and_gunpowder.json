@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "minecraft:custom_model_data": 421,
+      "minecraft:custom_model_data": 252,
       "minecraft:trim": {
         "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:raiser"

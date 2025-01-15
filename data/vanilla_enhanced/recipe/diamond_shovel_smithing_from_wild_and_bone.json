@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_shovel",
     "components": {
-      "minecraft:custom_model_data": 219,
+      "minecraft:custom_model_data": 89,
       "minecraft:trim": {
         "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:wild"

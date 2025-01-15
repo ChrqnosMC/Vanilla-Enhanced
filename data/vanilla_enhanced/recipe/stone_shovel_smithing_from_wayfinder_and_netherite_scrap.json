@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_shovel",
     "components": {
-      "minecraft:custom_model_data": 546,
+      "minecraft:custom_model_data": 221,
       "minecraft:trim": {
         "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:wayfinder"

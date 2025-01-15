@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "minecraft:custom_model_data": 360,
+      "minecraft:custom_model_data": 666,
       "minecraft:trim": {
         "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:bolt"

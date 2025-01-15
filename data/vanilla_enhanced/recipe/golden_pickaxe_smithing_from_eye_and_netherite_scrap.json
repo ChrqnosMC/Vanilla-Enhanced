@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 555,
+      "minecraft:custom_model_data": 563,
       "minecraft:trim": {
         "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:eye"

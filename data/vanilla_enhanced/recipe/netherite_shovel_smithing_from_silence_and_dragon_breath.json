@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "minecraft:custom_model_data": 281,
+      "minecraft:custom_model_data": 396,
       "minecraft:trim": {
         "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:silence"

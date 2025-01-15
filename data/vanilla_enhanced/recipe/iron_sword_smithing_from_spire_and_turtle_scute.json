@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 682,
+      "minecraft:custom_model_data": 608,
       "minecraft:trim": {
         "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:spire"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_axe",
     "components": {
-      "minecraft:custom_model_data": 447,
+      "minecraft:custom_model_data": 557,
       "minecraft:trim": {
         "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:eye"

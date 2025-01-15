@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "minecraft:custom_model_data": 559,
+      "minecraft:custom_model_data": 32,
       "minecraft:trim": {
         "material": "vanilla_enhanced:phantom_membrane",
         "pattern": "minecraft:sentry"

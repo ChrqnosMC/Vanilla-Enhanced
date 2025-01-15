@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 190,
+      "minecraft:custom_model_data": 353,
       "minecraft:trim": {
         "material": "vanilla_enhanced:armadillo_scute",
         "pattern": "minecraft:ward"

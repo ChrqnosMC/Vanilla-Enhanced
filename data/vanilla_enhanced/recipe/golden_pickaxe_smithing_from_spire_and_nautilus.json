@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 502,
+      "minecraft:custom_model_data": 598,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:spire"

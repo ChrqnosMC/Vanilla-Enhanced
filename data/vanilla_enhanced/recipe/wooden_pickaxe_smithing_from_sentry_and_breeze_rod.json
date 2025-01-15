@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 235,
+      "minecraft:custom_model_data": 14,
       "minecraft:trim": {
         "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:sentry"

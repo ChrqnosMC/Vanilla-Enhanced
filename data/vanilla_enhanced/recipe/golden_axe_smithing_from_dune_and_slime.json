@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "minecraft:custom_model_data": 653,
+      "minecraft:custom_model_data": 189,
       "minecraft:trim": {
         "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:dune"

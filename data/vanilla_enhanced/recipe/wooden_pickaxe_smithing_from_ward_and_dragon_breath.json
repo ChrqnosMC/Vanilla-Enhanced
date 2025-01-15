@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 280,
+      "minecraft:custom_model_data": 358,
       "minecraft:trim": {
         "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:ward"

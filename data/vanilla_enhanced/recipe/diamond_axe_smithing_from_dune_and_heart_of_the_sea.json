@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:custom_model_data": 437,
+      "minecraft:custom_model_data": 177,
       "minecraft:trim": {
         "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:dune"

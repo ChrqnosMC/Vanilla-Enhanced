@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "minecraft:custom_model_data": 551,
+      "minecraft:custom_model_data": 411,
       "minecraft:trim": {
         "material": "vanilla_enhanced:netherite_scrap",
         "pattern": "minecraft:silence"

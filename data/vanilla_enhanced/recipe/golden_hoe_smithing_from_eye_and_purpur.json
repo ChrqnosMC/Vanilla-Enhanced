@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "minecraft:custom_model_data": 627,
+      "minecraft:custom_model_data": 567,
       "minecraft:trim": {
         "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:eye"

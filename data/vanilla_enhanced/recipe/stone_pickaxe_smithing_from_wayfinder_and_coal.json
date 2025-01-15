@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 258,
+      "minecraft:custom_model_data": 205,
       "minecraft:trim": {
         "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:wayfinder"

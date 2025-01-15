@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_axe",
     "components": {
-      "minecraft:custom_model_data": 381,
+      "minecraft:custom_model_data": 98,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glow_ink",
         "pattern": "minecraft:wild"

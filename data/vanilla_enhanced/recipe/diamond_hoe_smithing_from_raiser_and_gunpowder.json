@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "minecraft:custom_model_data": 421,
+      "minecraft:custom_model_data": 252,
       "minecraft:trim": {
         "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:raiser"

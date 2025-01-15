@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "minecraft:custom_model_data": 355,
+      "minecraft:custom_model_data": 476,
       "minecraft:trim": {
         "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:snout"

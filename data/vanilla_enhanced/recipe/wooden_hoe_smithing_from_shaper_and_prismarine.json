@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "minecraft:custom_model_data": 602,
+      "minecraft:custom_model_data": 300,
       "minecraft:trim": {
         "material": "vanilla_enhanced:prismarine",
         "pattern": "minecraft:shaper"

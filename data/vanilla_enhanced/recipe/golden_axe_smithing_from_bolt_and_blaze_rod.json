@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "minecraft:custom_model_data": 216,
+      "minecraft:custom_model_data": 658,
       "minecraft:trim": {
         "material": "vanilla_enhanced:blaze_rod",
         "pattern": "minecraft:bolt"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 420,
+      "minecraft:custom_model_data": 214,
       "minecraft:trim": {
         "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:wayfinder"

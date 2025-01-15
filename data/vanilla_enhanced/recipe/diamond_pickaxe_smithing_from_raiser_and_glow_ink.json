@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 385,
+      "minecraft:custom_model_data": 250,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glow_ink",
         "pattern": "minecraft:raiser"

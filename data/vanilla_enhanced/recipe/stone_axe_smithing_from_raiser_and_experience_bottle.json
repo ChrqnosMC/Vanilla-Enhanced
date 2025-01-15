@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "minecraft:custom_model_data": 349,
+      "minecraft:custom_model_data": 248,
       "minecraft:trim": {
         "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:raiser"

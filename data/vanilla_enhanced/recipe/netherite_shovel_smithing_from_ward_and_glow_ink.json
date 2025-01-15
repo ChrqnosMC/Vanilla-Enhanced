@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "minecraft:custom_model_data": 388,
+      "minecraft:custom_model_data": 364,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glow_ink",
         "pattern": "minecraft:ward"

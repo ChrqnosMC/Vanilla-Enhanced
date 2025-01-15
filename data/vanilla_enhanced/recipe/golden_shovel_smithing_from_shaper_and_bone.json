@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_shovel",
     "components": {
-      "minecraft:custom_model_data": 224,
+      "minecraft:custom_model_data": 279,
       "minecraft:trim": {
         "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:shaper"

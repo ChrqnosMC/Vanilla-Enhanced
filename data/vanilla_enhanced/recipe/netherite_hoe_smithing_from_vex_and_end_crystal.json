@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 308,
+      "minecraft:custom_model_data": 56,
       "minecraft:trim": {
         "material": "vanilla_enhanced:end_crystal",
         "pattern": "minecraft:vex"

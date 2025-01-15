@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 513,
+      "minecraft:custom_model_data": 333,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:host"

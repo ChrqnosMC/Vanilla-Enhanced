@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 305,
+      "minecraft:custom_model_data": 625,
       "minecraft:trim": {
         "material": "vanilla_enhanced:echo_shard",
         "pattern": "minecraft:flow"

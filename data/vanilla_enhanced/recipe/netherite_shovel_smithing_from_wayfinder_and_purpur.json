@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_shovel",
     "components": {
-      "minecraft:custom_model_data": 618,
+      "minecraft:custom_model_data": 225,
       "minecraft:trim": {
         "material": "vanilla_enhanced:purpur",
         "pattern": "minecraft:wayfinder"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 244,
+      "minecraft:custom_model_data": 356,
       "minecraft:trim": {
         "material": "vanilla_enhanced:breeze_rod",
         "pattern": "minecraft:ward"

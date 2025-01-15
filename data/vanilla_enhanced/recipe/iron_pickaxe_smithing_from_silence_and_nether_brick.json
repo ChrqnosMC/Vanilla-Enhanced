@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 515,
+      "minecraft:custom_model_data": 409,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nether_brick",
         "pattern": "minecraft:silence"

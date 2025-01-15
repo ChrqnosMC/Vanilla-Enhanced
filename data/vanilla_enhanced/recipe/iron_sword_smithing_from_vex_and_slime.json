@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 650,
+      "minecraft:custom_model_data": 75,
       "minecraft:trim": {
         "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:vex"

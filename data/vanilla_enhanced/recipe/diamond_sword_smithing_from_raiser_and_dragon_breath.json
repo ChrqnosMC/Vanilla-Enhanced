@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_sword",
     "components": {
-      "minecraft:custom_model_data": 277,
+      "minecraft:custom_model_data": 244,
       "minecraft:trim": {
         "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:raiser"

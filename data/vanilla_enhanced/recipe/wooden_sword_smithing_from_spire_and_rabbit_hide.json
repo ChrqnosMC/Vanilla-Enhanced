@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_sword",
     "components": {
-      "minecraft:custom_model_data": 646,
+      "minecraft:custom_model_data": 606,
       "minecraft:trim": {
         "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:spire"

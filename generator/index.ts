@@ -125,8 +125,8 @@ async function writeItemRecipes() {
       toolMaterial = ''
     }
 
-    for (const [materialIndex, [material]] of Object.entries(items).entries()) {
-      for (const trim of trims) {
+    for (const trim of trims) {
+      for (const [materialIndex, [material]] of Object.entries(items).entries()) {
         const isSameMaterial = compareMaterial(material, toolMaterial)
 
         const recipeFile = isSameMaterial

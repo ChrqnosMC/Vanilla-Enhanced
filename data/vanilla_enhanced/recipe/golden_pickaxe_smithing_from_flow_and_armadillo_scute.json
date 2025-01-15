@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 197,
+      "minecraft:custom_model_data": 619,
       "minecraft:trim": {
         "material": "vanilla_enhanced:armadillo_scute",
         "pattern": "minecraft:flow"

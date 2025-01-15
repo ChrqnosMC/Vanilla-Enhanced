@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_hoe",
     "components": {
-      "minecraft:custom_model_data": 636,
+      "minecraft:custom_model_data": 226,
       "minecraft:trim": {
         "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:wayfinder"

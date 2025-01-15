@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:custom_model_data": 495,
+      "minecraft:custom_model_data": 332,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:host"

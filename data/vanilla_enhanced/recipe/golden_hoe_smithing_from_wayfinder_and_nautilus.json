@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "minecraft:custom_model_data": 492,
+      "minecraft:custom_model_data": 218,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:wayfinder"

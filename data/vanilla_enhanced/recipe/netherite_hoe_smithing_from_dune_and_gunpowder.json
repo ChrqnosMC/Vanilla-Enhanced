@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 419,
+      "minecraft:custom_model_data": 176,
       "minecraft:trim": {
         "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:dune"

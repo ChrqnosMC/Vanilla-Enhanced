@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_sword",
     "components": {
-      "minecraft:custom_model_data": 271,
+      "minecraft:custom_model_data": 16,
       "minecraft:trim": {
         "material": "vanilla_enhanced:dragon_breath",
         "pattern": "minecraft:sentry"

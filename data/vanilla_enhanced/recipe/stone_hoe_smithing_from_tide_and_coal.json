@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "minecraft:custom_model_data": 264,
+      "minecraft:custom_model_data": 433,
       "minecraft:trim": {
         "material": "vanilla_enhanced:coal",
         "pattern": "minecraft:tide"

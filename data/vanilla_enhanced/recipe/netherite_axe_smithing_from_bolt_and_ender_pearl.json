@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_axe",
     "components": {
-      "minecraft:custom_model_data": 342,
+      "minecraft:custom_model_data": 665,
       "minecraft:trim": {
         "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:bolt"

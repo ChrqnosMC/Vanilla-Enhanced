@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_axe",
     "components": {
-      "minecraft:custom_model_data": 661,
+      "minecraft:custom_model_data": 493,
       "minecraft:trim": {
         "material": "vanilla_enhanced:slime",
         "pattern": "minecraft:snout"

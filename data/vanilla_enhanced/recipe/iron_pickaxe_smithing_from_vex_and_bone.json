@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 218,
+      "minecraft:custom_model_data": 51,
       "minecraft:trim": {
         "material": "vanilla_enhanced:bone",
         "pattern": "minecraft:vex"

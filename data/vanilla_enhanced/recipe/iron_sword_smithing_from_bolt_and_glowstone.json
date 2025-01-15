@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 414,
+      "minecraft:custom_model_data": 669,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:bolt"

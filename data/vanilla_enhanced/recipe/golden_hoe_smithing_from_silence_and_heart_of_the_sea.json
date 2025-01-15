@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_hoe",
     "components": {
-      "minecraft:custom_model_data": 443,
+      "minecraft:custom_model_data": 405,
       "minecraft:trim": {
         "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:silence"

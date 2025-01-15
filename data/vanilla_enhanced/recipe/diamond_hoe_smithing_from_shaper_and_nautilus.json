@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_hoe",
     "components": {
-      "minecraft:custom_model_data": 494,
+      "minecraft:custom_model_data": 294,
       "minecraft:trim": {
         "material": "vanilla_enhanced:nautilus",
         "pattern": "minecraft:shaper"

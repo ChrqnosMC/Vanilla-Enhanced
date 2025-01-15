@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_sword",
     "components": {
-      "minecraft:custom_model_data": 465,
+      "minecraft:custom_model_data": 558,
       "minecraft:trim": {
         "material": "vanilla_enhanced:honeycomb",
         "pattern": "minecraft:eye"

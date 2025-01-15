@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_sword",
     "components": {
-      "minecraft:custom_model_data": 406,
+      "minecraft:custom_model_data": 365,
       "minecraft:trim": {
         "material": "vanilla_enhanced:glowstone",
         "pattern": "minecraft:ward"

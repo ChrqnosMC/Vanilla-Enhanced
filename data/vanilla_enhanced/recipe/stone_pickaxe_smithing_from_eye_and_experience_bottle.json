@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 357,
+      "minecraft:custom_model_data": 552,
       "minecraft:trim": {
         "material": "vanilla_enhanced:experience_bottle",
         "pattern": "minecraft:eye"

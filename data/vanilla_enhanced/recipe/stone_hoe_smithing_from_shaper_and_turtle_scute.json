@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "minecraft:custom_model_data": 674,
+      "minecraft:custom_model_data": 304,
       "minecraft:trim": {
         "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:shaper"

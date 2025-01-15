@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:golden_axe",
     "components": {
-      "minecraft:custom_model_data": 427,
+      "minecraft:custom_model_data": 480,
       "minecraft:trim": {
         "material": "vanilla_enhanced:gunpowder",
         "pattern": "minecraft:snout"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_hoe",
     "components": {
-      "minecraft:custom_model_data": 681,
+      "minecraft:custom_model_data": 570,
       "minecraft:trim": {
         "material": "vanilla_enhanced:turtle_scute",
         "pattern": "minecraft:eye"

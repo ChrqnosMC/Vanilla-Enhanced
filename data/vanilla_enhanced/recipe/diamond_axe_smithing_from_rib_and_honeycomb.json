@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_axe",
     "components": {
-      "minecraft:custom_model_data": 464,
+      "minecraft:custom_model_data": 520,
       "minecraft:trim": {
         "material": "vanilla_enhanced:honeycomb",
         "pattern": "minecraft:rib"

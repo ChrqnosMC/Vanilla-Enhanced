@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:diamond_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 194,
+      "minecraft:custom_model_data": 505,
       "minecraft:trim": {
         "material": "vanilla_enhanced:armadillo_scute",
         "pattern": "minecraft:rib"

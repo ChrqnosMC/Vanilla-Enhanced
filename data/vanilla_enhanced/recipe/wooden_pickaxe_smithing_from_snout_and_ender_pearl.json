@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:wooden_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 337,
+      "minecraft:custom_model_data": 475,
       "minecraft:trim": {
         "material": "vanilla_enhanced:ender_pearl",
         "pattern": "minecraft:snout"

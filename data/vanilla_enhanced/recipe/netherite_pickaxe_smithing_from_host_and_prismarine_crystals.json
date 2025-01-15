@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:netherite_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 585,
+      "minecraft:custom_model_data": 337,
       "minecraft:trim": {
         "material": "vanilla_enhanced:prismarine_crystals",
         "pattern": "minecraft:host"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_hoe",
     "components": {
-      "minecraft:custom_model_data": 463,
+      "minecraft:custom_model_data": 482,
       "minecraft:trim": {
         "material": "vanilla_enhanced:honeycomb",
         "pattern": "minecraft:snout"

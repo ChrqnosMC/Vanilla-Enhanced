@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:stone_pickaxe",
     "components": {
-      "minecraft:custom_model_data": 440,
+      "minecraft:custom_model_data": 291,
       "minecraft:trim": {
         "material": "vanilla_enhanced:heart_of_the_sea",
         "pattern": "minecraft:shaper"

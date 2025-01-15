@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_hoe",
     "components": {
-      "minecraft:custom_model_data": 373,
+      "minecraft:custom_model_data": 477,
       "minecraft:trim": {
         "material": "vanilla_enhanced:fire_charge",
         "pattern": "minecraft:snout"

@@ -10,7 +10,7 @@
     "count": 1,
     "id": "minecraft:iron_shovel",
     "components": {
-      "minecraft:custom_model_data": 635,
+      "minecraft:custom_model_data": 188,
       "minecraft:trim": {
         "material": "vanilla_enhanced:rabbit_hide",
         "pattern": "minecraft:dune"
