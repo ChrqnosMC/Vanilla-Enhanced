@@ -1,8 +1,0 @@
-{
-  "asset_name": "purpur",
-  "description": {
-    "color": "#8f648f",
-    "translate": "trim_material.more_armor_trim.purpur"
-  },
-  "ingredient": "minecraft:popped_chorus_fruit"
-}
