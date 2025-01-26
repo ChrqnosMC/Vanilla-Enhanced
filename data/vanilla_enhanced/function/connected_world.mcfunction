@@ -1,1 +1,0 @@
-execute as @s[predicate=vanilla_enhanced:to_overworld] at @s run execute in overworld run tp @s ~ 320 ~
