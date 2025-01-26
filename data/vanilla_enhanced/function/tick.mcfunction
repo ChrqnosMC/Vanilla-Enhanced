@@ -10,7 +10,6 @@ execute as @e[type=#raiders,tag=!raiders_check,limit=1,predicate=vanilla_enhance
 
 tag @e[type=#raiders,tag=!raiders_check] add raiders_check
 
-execute as @a[advancements={vanilla_enhanced:consume_dreaming_bottle=true}] at @s run function vanilla_enhanced:get_effect/get_dreaming
 execute as @a[advancements={vanilla_enhanced:enter_bastion_remnant_with_bad_omen=true}] at @s run function vanilla_enhanced:get_effect/get_bastion_omen
 execute as @a[advancements={vanilla_enhanced:enter_end_city_with_bad_omen=true}] at @s run function vanilla_enhanced:get_effect/get_city_omen
 execute as @a[advancements={vanilla_enhanced:check_sleep=true}] at @s run function vanilla_enhanced:get_effect/remove_dreaming
