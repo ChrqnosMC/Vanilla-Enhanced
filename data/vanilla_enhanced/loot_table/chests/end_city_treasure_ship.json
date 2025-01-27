@@ -378,6 +378,28 @@
                 "custom_model_data": 1,
                 "!ominous_bottle_amplifier": {},
                 "lore": [
+                  "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle3', 'fallback': 'Dreaming III (1:00:00)' }"
+                ]
+              }
+            }
+          ],
+          "name": "minecraft:ominous_bottle"
+        },
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": 1.0,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "set_components",
+              "components": {
+                "item_name": "'Dreaming Bottle'",
+                "custom_model_data": 1,
+                "!ominous_bottle_amplifier": {},
+                "lore": [
                   "{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle4', 'fallback': 'Dreaming IV (1:20:00)' }"
                 ]
               }
