@@ -1,0 +1,21 @@
+{
+	"criteria": {
+		"dreaming_bottle": {
+			"trigger": "consume_item",
+			"conditions": {
+				"item": {
+					"items": [
+						"minecraft:ominous_bottle"
+					],
+					"components": {
+						"item_name": "'Dreaming Bottle'",
+						"custom_model_data": 1,
+						"lore": [
+							"{ 'color': 'blue', 'italic': false, 'translate': 'item.vanilla_enhanced.dreaming_bottle5', 'fallback': 'Dreaming V (1:40:00)' }"
+						]
+					}
+				}
+			}
+		}
+	}
+}
