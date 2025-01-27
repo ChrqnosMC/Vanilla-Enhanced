@@ -15,4 +15,9 @@ scoreboard objectives add Health health
 scoreboard objectives setdisplay list Health
 scoreboard objectives setdisplay below_name Health
 
+scoreboard objectives add live trigger
+team add live "Streamer Trigger"
+team modify live color white
+team modify live suffix {"text":" [LIVE]", "color":"white"}
+
 tellraw @a ["",{"text":"Vanilla Enhanced datapack has been reloaded"}]

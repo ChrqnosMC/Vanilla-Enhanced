@@ -13,3 +13,8 @@ tag @e[type=#raiders,tag=!raiders_check] add raiders_check
 execute as @a[advancements={vanilla_enhanced:enter_bastion_remnant_with_bad_omen=true}] at @s run function vanilla_enhanced:get_effect/get_bastion_omen
 execute as @a[advancements={vanilla_enhanced:enter_end_city_with_bad_omen=true}] at @s run function vanilla_enhanced:get_effect/get_city_omen
 execute as @a[advancements={vanilla_enhanced:check_sleep=true}] at @s run function vanilla_enhanced:get_effect/remove_dreaming
+execute as @a[advancements={vanilla_enhanced:consume_dreaming_bottle=true}] at @s run function vanilla_enhanced:get_effect/get_dreaming
+
+scoreboard players enable @a live
+execute as @a[scores={live=1..},team=!live] run function vanilla_enhanced:join_team
+execute as @a[scores={live=1..},team=live] run function vanilla_enhanced:leave_team

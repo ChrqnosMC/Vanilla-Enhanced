@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:heart_of_the_sea",
+  "base": "minecraft:iron_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": {
+        "floats": [
+          6
+        ]
+      },
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:heart_of_the_sea",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": "minecraft:wayfinder_armor_trim_smithing_template"
+}
