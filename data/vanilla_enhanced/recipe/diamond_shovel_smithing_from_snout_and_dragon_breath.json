@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:dragon_breath"
+  },
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "minecraft:custom_model_data": 472,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:dragon_breath",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  }
+}

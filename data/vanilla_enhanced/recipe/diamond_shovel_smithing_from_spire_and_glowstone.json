@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_shovel",
+    "components": {
+      "minecraft:custom_model_data": 593,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glowstone",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
+}

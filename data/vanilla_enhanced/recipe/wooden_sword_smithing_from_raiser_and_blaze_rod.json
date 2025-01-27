@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:blaze_rod"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 240,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:blaze_rod",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
+}

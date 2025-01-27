@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:breeze_rod"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": 204,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:breeze_rod",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:wayfinder_armor_trim_smithing_template"
+  }
+}

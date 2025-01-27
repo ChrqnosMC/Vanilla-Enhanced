@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:ender_pearl"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 57,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:ender_pearl",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:vex_armor_trim_smithing_template"
+  }
+}

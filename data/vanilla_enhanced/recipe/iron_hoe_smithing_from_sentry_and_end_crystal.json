@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:end_crystal"
+  },
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_hoe",
+    "components": {
+      "minecraft:custom_model_data": 18,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:end_crystal",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

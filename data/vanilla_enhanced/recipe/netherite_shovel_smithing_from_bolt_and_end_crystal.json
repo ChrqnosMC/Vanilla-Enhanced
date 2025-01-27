@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:end_crystal"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": 664,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:end_crystal",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  }
+}

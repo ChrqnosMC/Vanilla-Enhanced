@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:end_crystal"
+  },
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 284,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:end_crystal",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:shaper_armor_trim_smithing_template"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "base": {
+    "item": "minecraft:iron_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:custom_model_data": 177,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:heart_of_the_sea",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:dune_armor_trim_smithing_template"
+  }
+}

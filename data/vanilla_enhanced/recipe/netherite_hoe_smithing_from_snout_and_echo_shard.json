@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": 473,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:echo_shard",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:snout_armor_trim_smithing_template"
+  }
+}

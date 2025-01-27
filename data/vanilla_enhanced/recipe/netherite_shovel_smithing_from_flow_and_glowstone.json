@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "base": {
+    "item": "minecraft:netherite_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": 631,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glowstone",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  }
+}

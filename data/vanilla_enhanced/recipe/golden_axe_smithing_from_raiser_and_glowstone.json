@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "base": {
+    "item": "minecraft:golden_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_axe",
+    "components": {
+      "minecraft:custom_model_data": 251,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glowstone",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
+}

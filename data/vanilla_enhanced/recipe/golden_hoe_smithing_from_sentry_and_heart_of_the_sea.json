@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:heart_of_the_sea"
+  },
+  "base": {
+    "item": "minecraft:golden_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_hoe",
+    "components": {
+      "minecraft:custom_model_data": 25,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:heart_of_the_sea",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

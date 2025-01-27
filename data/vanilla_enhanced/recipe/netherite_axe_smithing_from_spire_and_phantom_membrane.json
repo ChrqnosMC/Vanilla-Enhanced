@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "base": {
+    "item": "minecraft:netherite_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_axe",
+    "components": {
+      "minecraft:custom_model_data": 602,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:phantom_membrane",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:spire_armor_trim_smithing_template"
+  }
+}

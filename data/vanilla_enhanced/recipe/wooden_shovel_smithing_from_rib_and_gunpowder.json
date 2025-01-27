@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gunpowder"
+  },
+  "base": {
+    "item": "minecraft:wooden_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 518,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:gunpowder",
+        "pattern": "minecraft:rib"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
+}

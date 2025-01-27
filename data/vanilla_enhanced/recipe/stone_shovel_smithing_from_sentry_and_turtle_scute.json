@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:turtle_scute"
+  },
+  "base": {
+    "item": "minecraft:stone_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": 38,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:turtle_scute",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

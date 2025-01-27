@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "base": {
+    "item": "minecraft:stone_hoe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_hoe",
+    "components": {
+      "minecraft:custom_model_data": 645,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:slime",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  }
+}

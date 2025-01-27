@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 417,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:slime",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:rabbit_hide"
+  },
+  "base": {
+    "item": "minecraft:stone_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": 644,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:rabbit_hide",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:flow_armor_trim_smithing_template"
+  }
+}

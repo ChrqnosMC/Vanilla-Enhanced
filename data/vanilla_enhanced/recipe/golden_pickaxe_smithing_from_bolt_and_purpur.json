@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:popped_chorus_fruit"
+  },
+  "base": {
+    "item": "minecraft:golden_pickaxe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 681,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:purpur",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  }
+}

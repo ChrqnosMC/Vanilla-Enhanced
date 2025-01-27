@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:echo_shard"
+  },
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_sword",
+    "components": {
+      "minecraft:custom_model_data": 397,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:echo_shard",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:silence_armor_trim_smithing_template"
+  }
+}

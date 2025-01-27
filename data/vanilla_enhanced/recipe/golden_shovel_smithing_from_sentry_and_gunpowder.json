@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:gunpowder"
+  },
+  "base": {
+    "item": "minecraft:golden_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 24,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:gunpowder",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

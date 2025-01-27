@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:slime_ball"
+  },
+  "base": {
+    "item": "minecraft:golden_shovel"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 379,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:slime",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  }
+}

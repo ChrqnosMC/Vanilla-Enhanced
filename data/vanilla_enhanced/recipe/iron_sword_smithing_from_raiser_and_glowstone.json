@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "base": {
+    "item": "minecraft:iron_sword"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_sword",
+    "components": {
+      "minecraft:custom_model_data": 251,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glowstone",
+        "pattern": "minecraft:raiser"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:raiser_armor_trim_smithing_template"
+  }
+}

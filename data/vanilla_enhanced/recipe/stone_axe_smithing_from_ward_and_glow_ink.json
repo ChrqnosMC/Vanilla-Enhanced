@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:glow_ink_sac"
+  },
+  "base": {
+    "item": "minecraft:stone_axe"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": 364,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glow_ink",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": {
+    "item": "minecraft:ward_armor_trim_smithing_template"
+  }
+}
