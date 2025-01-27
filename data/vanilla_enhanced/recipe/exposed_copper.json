@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+      "#": {
+        "item": "minecraft:copper_ingot",
+        "components": {
+          "item_name": "'Exposed Copper Ingot'",
+          "custom_model_data": 1
+        }
+      }
+    },
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "result": {
+      "count": 1,
+      "id": "minecraft:exposed_copper"
+    }
+  }

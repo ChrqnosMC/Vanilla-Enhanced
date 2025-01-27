@@ -1,0 +1,36 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_weathered_copper_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:copper_ingot",
+            "components": {
+              "item_name": "'Weathered Copper Ingot'",
+              "custom_model_data": 2
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "vanilla_enhanced:weathered_copper_trapdoor"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_weathered_copper_ingot"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vanilla_enhanced:weathered_copper_trapdoor"
+    ]
+  }
+}
