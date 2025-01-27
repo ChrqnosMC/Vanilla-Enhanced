@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:popped_chorus_fruit",
+  "base": "minecraft:stone_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": 415,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:purpur",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}

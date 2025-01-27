@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:echo_shard",
+  "base": "minecraft:golden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:custom_model_data": 55,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:echo_shard",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

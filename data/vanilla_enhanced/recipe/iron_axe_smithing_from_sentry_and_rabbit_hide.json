@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:rabbit_hide",
+  "base": "minecraft:iron_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_axe",
+    "components": {
+      "minecraft:custom_model_data": 36,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:rabbit_hide",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:phantom_membrane",
+  "base": "minecraft:stone_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": 374,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:phantom_membrane",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

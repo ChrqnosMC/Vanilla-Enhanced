@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:leather",
+  "base": "minecraft:golden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 103,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:leather",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

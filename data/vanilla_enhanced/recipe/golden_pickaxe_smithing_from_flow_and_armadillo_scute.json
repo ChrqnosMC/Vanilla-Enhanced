@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:armadillo_scute",
+  "base": "minecraft:golden_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 619,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:armadillo_scute",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "template": "minecraft:flow_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_crystals",
+  "base": "minecraft:diamond_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:diamond_hoe",
+    "components": {
+      "minecraft:custom_model_data": 565,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:prismarine_crystals",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

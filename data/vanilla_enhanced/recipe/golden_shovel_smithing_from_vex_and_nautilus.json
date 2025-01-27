@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nautilus_shell",
+  "base": "minecraft:golden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 66,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:nautilus",
+        "pattern": "minecraft:vex"
+      }
+    }
+  },
+  "template": "minecraft:vex_armor_trim_smithing_template"
+}

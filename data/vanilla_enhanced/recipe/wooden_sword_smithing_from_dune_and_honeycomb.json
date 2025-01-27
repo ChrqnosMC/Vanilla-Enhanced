@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:honeycomb",
+  "base": "minecraft:wooden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 178,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:honeycomb",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
+}

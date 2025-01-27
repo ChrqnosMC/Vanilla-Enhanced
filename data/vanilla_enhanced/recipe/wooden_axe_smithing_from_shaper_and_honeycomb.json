@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:honeycomb",
+  "base": "minecraft:wooden_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_axe",
+    "components": {
+      "minecraft:custom_model_data": 292,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:honeycomb",
+        "pattern": "minecraft:shaper"
+      }
+    }
+  },
+  "template": "minecraft:shaper_armor_trim_smithing_template"
+}

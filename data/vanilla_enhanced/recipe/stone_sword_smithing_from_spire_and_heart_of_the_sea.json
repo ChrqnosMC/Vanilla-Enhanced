@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:heart_of_the_sea",
+  "base": "minecraft:stone_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": 595,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:heart_of_the_sea",
+        "pattern": "minecraft:spire"
+      }
+    }
+  },
+  "template": "minecraft:spire_armor_trim_smithing_template"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:heart_of_the_sea",
+  "base": "minecraft:netherite_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_sword",
+    "components": {
+      "minecraft:custom_model_data": 671,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:heart_of_the_sea",
+        "pattern": "minecraft:bolt"
+      }
+    }
+  },
+  "template": "minecraft:bolt_armor_trim_smithing_template"
+}

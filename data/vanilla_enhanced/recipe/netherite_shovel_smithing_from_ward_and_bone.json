@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:bone",
+  "base": "minecraft:netherite_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_shovel",
+    "components": {
+      "minecraft:custom_model_data": 355,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:bone",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

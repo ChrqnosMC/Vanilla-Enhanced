@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:glow_ink_sac",
+  "base": "minecraft:netherite_hoe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_hoe",
+    "components": {
+      "minecraft:custom_model_data": 402,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:glow_ink",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "template": "minecraft:silence_armor_trim_smithing_template"
+}

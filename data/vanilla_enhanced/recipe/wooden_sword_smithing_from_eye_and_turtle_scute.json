@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:turtle_scute",
+  "base": "minecraft:wooden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wooden_sword",
+    "components": {
+      "minecraft:custom_model_data": 570,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:turtle_scute",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "template": "minecraft:eye_armor_trim_smithing_template"
+}

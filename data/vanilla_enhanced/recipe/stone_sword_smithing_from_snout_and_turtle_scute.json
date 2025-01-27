@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:turtle_scute",
+  "base": "minecraft:stone_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_sword",
+    "components": {
+      "minecraft:custom_model_data": 494,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:turtle_scute",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
+}

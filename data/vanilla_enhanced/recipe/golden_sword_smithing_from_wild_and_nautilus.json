@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:nautilus_shell",
+  "base": "minecraft:golden_sword",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_sword",
+    "components": {
+      "minecraft:custom_model_data": 104,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:nautilus",
+        "pattern": "minecraft:wild"
+      }
+    }
+  },
+  "template": "minecraft:wild_armor_trim_smithing_template"
+}

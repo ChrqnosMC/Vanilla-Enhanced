@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:gunpowder",
+  "base": "minecraft:iron_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_shovel",
+    "components": {
+      "minecraft:custom_model_data": 480,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:gunpowder",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
+}

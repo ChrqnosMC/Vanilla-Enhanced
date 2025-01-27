@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:experience_bottle",
+  "base": "minecraft:iron_pickaxe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:iron_pickaxe",
+    "components": {
+      "minecraft:custom_model_data": 362,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:experience_bottle",
+        "pattern": "minecraft:ward"
+      }
+    }
+  },
+  "template": "minecraft:ward_armor_trim_smithing_template"
+}

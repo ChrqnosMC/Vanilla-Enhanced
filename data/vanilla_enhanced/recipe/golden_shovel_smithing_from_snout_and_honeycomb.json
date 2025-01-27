@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:honeycomb",
+  "base": "minecraft:golden_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:golden_shovel",
+    "components": {
+      "minecraft:custom_model_data": 482,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:honeycomb",
+        "pattern": "minecraft:snout"
+      }
+    }
+  },
+  "template": "minecraft:snout_armor_trim_smithing_template"
+}

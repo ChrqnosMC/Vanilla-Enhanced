@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:prismarine_crystals",
+  "base": "minecraft:stone_axe",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_axe",
+    "components": {
+      "minecraft:custom_model_data": 33,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:prismarine_crystals",
+        "pattern": "minecraft:sentry"
+      }
+    }
+  },
+  "template": "minecraft:sentry_armor_trim_smithing_template"
+}

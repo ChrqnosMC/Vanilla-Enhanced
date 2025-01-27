@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": "minecraft:echo_shard",
+  "base": "minecraft:stone_shovel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:stone_shovel",
+    "components": {
+      "minecraft:custom_model_data": 169,
+      "minecraft:trim": {
+        "material": "vanilla_enhanced:echo_shard",
+        "pattern": "minecraft:dune"
+      }
+    }
+  },
+  "template": "minecraft:dune_armor_trim_smithing_template"
+}
