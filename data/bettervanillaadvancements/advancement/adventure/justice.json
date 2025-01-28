@@ -24,7 +24,7 @@
   },
   "criteria": {
     "arbalistic_without_illusioner": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -42,11 +42,14 @@
           {
             "type": "minecraft:witch"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     },
     "arbalistic_without_witch": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -64,11 +67,14 @@
           {
             "type": "minecraft:illusioner"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     },
     "arbalistic_without_ravager": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -86,11 +92,14 @@
           {
             "type": "minecraft:illusioner"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     },
     "arbalistic_without_evoker": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -108,11 +117,14 @@
           {
             "type": "minecraft:illusioner"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     },
     "arbalistic_without_vindicator": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -130,11 +142,14 @@
           {
             "type": "minecraft:illusioner"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     },
     "arbalistic_without_pillager": {
-      "trigger": "minecraft:killed_by_crossbow",
+      "trigger": "minecraft:killed_by_arrow",
       "conditions": {
         "victims": [
           {
@@ -152,7 +167,10 @@
           {
             "type": "minecraft:illusioner"
           }
-        ]
+        ],
+				"fired_from_weapon": {
+					"items": "minecraft:crossbow"
+				}
       }
     }
   },
