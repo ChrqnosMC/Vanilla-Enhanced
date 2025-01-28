@@ -164,6 +164,20 @@
         ]
       }
     },
+    "resin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "predicates": {
+              "minecraft:trim": {
+                "material": "minecraft:resin"
+              }
+            }
+          }
+        ]
+      }
+    },
     "armadillo_scute": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
@@ -171,7 +185,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:armadillo_scute"
+                "material": "vanilla_enhanced:armadillo_scute"
               }
             }
           }
@@ -185,7 +199,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:blaze_rod"
+                "material": "vanilla_enhanced:blaze_rod"
               }
             }
           }
@@ -199,7 +213,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:bone"
+                "material": "vanilla_enhanced:bone"
               }
             }
           }
@@ -213,7 +227,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:breeze_rod"
+                "material": "vanilla_enhanced:breeze_rod"
               }
             }
           }
@@ -227,7 +241,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:coal"
+                "material": "vanilla_enhanced:coal"
               }
             }
           }
@@ -241,7 +255,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:dragon_breath"
+                "material": "vanilla_enhanced:dragon_breath"
               }
             }
           }
@@ -255,7 +269,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:echo_shard"
+                "material": "vanilla_enhanced:echo_shard"
               }
             }
           }
@@ -269,7 +283,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:end_crystal"
+                "material": "vanilla_enhanced:end_crystal"
               }
             }
           }
@@ -283,7 +297,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:ender_pearl"
+                "material": "vanilla_enhanced:ender_pearl"
               }
             }
           }
@@ -297,7 +311,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:experience_bottle"
+                "material": "vanilla_enhanced:experience_bottle"
               }
             }
           }
@@ -311,7 +325,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:fire_charge"
+                "material": "vanilla_enhanced:fire_charge"
               }
             }
           }
@@ -325,7 +339,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:glow_ink"
+                "material": "vanilla_enhanced:glow_ink"
               }
             }
           }
@@ -339,7 +353,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:glowstone"
+                "material": "vanilla_enhanced:glowstone"
               }
             }
           }
@@ -353,7 +367,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:gunpowder"
+                "material": "vanilla_enhanced:gunpowder"
               }
             }
           }
@@ -367,7 +381,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:heart_of_the_sea"
+                "material": "vanilla_enhanced:heart_of_the_sea"
               }
             }
           }
@@ -381,7 +395,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:honeycomb"
+                "material": "vanilla_enhanced:honeycomb"
               }
             }
           }
@@ -395,7 +409,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:leather"
+                "material": "vanilla_enhanced:leather"
               }
             }
           }
@@ -409,7 +423,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:nautilus"
+                "material": "vanilla_enhanced:nautilus"
               }
             }
           }
@@ -423,7 +437,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:nether_brick"
+                "material": "vanilla_enhanced:nether_brick"
               }
             }
           }
@@ -437,7 +451,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:nether_star"
+                "material": "vanilla_enhanced:nether_star"
               }
             }
           }
@@ -451,7 +465,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:netherite_scrap"
+                "material": "vanilla_enhanced:netherite_scrap"
               }
             }
           }
@@ -465,7 +479,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:phantom_membrane"
+                "material": "vanilla_enhanced:phantom_membrane"
               }
             }
           }
@@ -479,7 +493,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:prismarine"
+                "material": "vanilla_enhanced:prismarine"
               }
             }
           }
@@ -493,7 +507,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:prismarine_crystals"
+                "material": "vanilla_enhanced:prismarine_crystals"
               }
             }
           }
@@ -507,7 +521,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:purpur"
+                "material": "vanilla_enhanced:purpur"
               }
             }
           }
@@ -521,7 +535,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:rabbit_hide"
+                "material": "vanilla_enhanced:rabbit_hide"
               }
             }
           }
@@ -535,7 +549,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:slime"
+                "material": "vanilla_enhanced:slime"
               }
             }
           }
@@ -549,7 +563,7 @@
           {
             "predicates": {
               "minecraft:trim": {
-                "material": "minecraft:turtle_scute"
+                "material": "vanilla_enhanced:turtle_scute"
               }
             }
           }
