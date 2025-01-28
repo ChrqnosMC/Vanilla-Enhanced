@@ -305,6 +305,14 @@
           "more_vault:city_omen": {}
         }
       }
+    },
+    "dreaming": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "effects": {
+          "more_vault:dreaming": {}
+        }
+      }
     }
   }
 }

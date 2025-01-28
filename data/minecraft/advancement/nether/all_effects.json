@@ -57,7 +57,8 @@
           "minecraft:raid_omen": {},
           "minecraft:trial_omen": {},
           "more_vault:bastion_omen": {},
-          "more_vault:city_omen": {}
+          "more_vault:city_omen": {},
+          "more_vault:dreaming": {}
         }
       }
     }
