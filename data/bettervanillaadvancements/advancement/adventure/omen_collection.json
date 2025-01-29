@@ -1,0 +1,62 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:ominous_bottle"
+        },
+        "title": {
+            "translate": "Omen Collection"
+        },
+        "description": {
+            "color": "#63BDD7",
+            "translate": "Get all the effects possible related to bad omen during your life (not all at the same time)"
+        },
+        "announce_to_chat": true,
+        "frame": "goal"
+    },
+    "parent": "bettervanillaadvancements:adventure/hard_mode_activated",
+    "rewards": {
+        "function": "bettervanillaadvancements:adventure/omen_collection"
+    },
+    "criteria": {
+        "bad_omen": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:bad_omen": {}
+                }
+            }
+        },
+        "raid_omen": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:raid_omen": {}
+                }
+            }
+        },
+        "trial_omen": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:trial_omen": {}
+                }
+            }
+        },
+        "bastion_omen": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "more_vault:bastion_omen": {}
+                }
+            }
+        },
+        "city_omen": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "more_vault:city_omen": {}
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "display": {
+        "icon": {
+            "id": "minecraft:totem_of_undying"
+        },
+        "title": {
+            "translate": "I'm the Omen"
+        },
+        "description": {
+            "color": "#C900C7",
+            "translate": "Have every effects related to bad omen applied at the same time"
+        },
+        "announce_to_chat": true,
+        "frame": "challenge"
+    },
+    "parent": "bettervanillaadvancements:adventure/omen_collection",
+    "rewards": {
+        "function": "bettervanillaadvancements:adventure/im_the_omen"
+    },
+    "criteria": {
+        "all_effects": {
+            "trigger": "minecraft:effects_changed",
+            "conditions": {
+                "effects": {
+                    "minecraft:bad_omen": {},
+                    "minecraft:raid_omen": {},
+                    "minecraft:trial_omen": {},
+                    "more_vault:bastion_omen": {},
+                    "more_vault:city_omen": {}
+                }
+            }
+        }
+    }
+}
